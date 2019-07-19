@@ -1,0 +1,1754 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'cache', 'clean', '-f' ]
+2 info using npm@3.10.5
+3 info using node@v0.10.33
+4 verbose config Skipping project config: /Users/hanny/.npmrc. (matches userconfig)
+5 warn using --force I sure hope you know what you are doing.
+6 silly ls normalized .
+7 silly gentlyRm /Users/hanny/.npm/Base64 is being purged
+8 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/Base64
+9 silly gentlyRm /Users/hanny/.npm/CSSselect is being purged
+10 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/CSSselect
+11 silly gentlyRm /Users/hanny/.npm/CSSwhat is being purged
+12 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/CSSwhat
+13 silly gentlyRm /Users/hanny/.npm/JSONStream is being purged
+14 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/JSONStream
+15 silly gentlyRm /Users/hanny/.npm/_git-remotes is being purged
+16 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/_git-remotes
+17 silly gentlyRm /Users/hanny/.npm/a-big-triangle is being purged
+18 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/a-big-triangle
+19 silly gentlyRm /Users/hanny/.npm/abbrev is being purged
+20 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/abbrev
+21 silly gentlyRm /Users/hanny/.npm/adm-zip is being purged
+22 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/adm-zip
+23 silly gentlyRm /Users/hanny/.npm/adventure is being purged
+24 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/adventure
+25 silly gentlyRm /Users/hanny/.npm/after is being purged
+26 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/after
+27 silly gentlyRm /Users/hanny/.npm/amdefine is being purged
+28 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/amdefine
+29 silly gentlyRm /Users/hanny/.npm/ansi-regex is being purged
+30 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ansi-regex
+31 silly gentlyRm /Users/hanny/.npm/ansi-styles is being purged
+32 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ansi-styles
+33 silly gentlyRm /Users/hanny/.npm/ansicolors is being purged
+34 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ansicolors
+35 silly gentlyRm /Users/hanny/.npm/apprise is being purged
+36 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/apprise
+37 silly gentlyRm /Users/hanny/.npm/archive-type is being purged
+38 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/archive-type
+39 silly gentlyRm /Users/hanny/.npm/archy is being purged
+40 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/archy
+41 silly gentlyRm /Users/hanny/.npm/argparse is being purged
+42 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/argparse
+43 silly gentlyRm /Users/hanny/.npm/array-filter is being purged
+44 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/array-filter
+45 silly gentlyRm /Users/hanny/.npm/array-map is being purged
+46 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/array-map
+47 silly gentlyRm /Users/hanny/.npm/array-reduce is being purged
+48 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/array-reduce
+49 silly gentlyRm /Users/hanny/.npm/asn1 is being purged
+50 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/asn1
+51 silly gentlyRm /Users/hanny/.npm/assert is being purged
+52 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/assert
+53 silly gentlyRm /Users/hanny/.npm/assert-plus is being purged
+54 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/assert-plus
+55 silly gentlyRm /Users/hanny/.npm/ast-query is being purged
+56 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ast-query
+57 silly gentlyRm /Users/hanny/.npm/ast-types is being purged
+58 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ast-types
+59 silly gentlyRm /Users/hanny/.npm/astw is being purged
+60 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/astw
+61 silly gentlyRm /Users/hanny/.npm/async is being purged
+62 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/async
+63 silly gentlyRm /Users/hanny/.npm/autoprefixer is being purged
+64 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/autoprefixer
+65 silly gentlyRm /Users/hanny/.npm/aws-sign is being purged
+66 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/aws-sign
+67 silly gentlyRm /Users/hanny/.npm/aws-sign2 is being purged
+68 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/aws-sign2
+69 silly gentlyRm /Users/hanny/.npm/aws4 is being purged
+70 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/aws4
+71 silly gentlyRm /Users/hanny/.npm/baboon-image is being purged
+72 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/baboon-image
+73 silly gentlyRm /Users/hanny/.npm/base62 is being purged
+74 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/base62
+75 silly gentlyRm /Users/hanny/.npm/base64-js is being purged
+76 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/base64-js
+77 silly gentlyRm /Users/hanny/.npm/beefy is being purged
+78 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/beefy
+79 silly gentlyRm /Users/hanny/.npm/binary is being purged
+80 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/binary
+81 silly gentlyRm /Users/hanny/.npm/binary-search-bounds is being purged
+82 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/binary-search-bounds
+83 silly gentlyRm /Users/hanny/.npm/bit-twiddle is being purged
+84 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/bit-twiddle
+85 silly gentlyRm /Users/hanny/.npm/bl is being purged
+86 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/bl
+87 silly gentlyRm /Users/hanny/.npm/block-stream is being purged
+88 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/block-stream
+89 silly gentlyRm /Users/hanny/.npm/boganipsum is being purged
+90 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/boganipsum
+91 silly gentlyRm /Users/hanny/.npm/boom is being purged
+92 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/boom
+93 silly gentlyRm /Users/hanny/.npm/bops is being purged
+94 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/bops
+95 silly gentlyRm /Users/hanny/.npm/bower is being purged
+96 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/bower
+97 silly gentlyRm /Users/hanny/.npm/bower-config is being purged
+98 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/bower-config
+99 silly gentlyRm /Users/hanny/.npm/bower-endpoint-parser is being purged
+100 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/bower-endpoint-parser
+101 silly gentlyRm /Users/hanny/.npm/bower-json is being purged
+102 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/bower-json
+103 silly gentlyRm /Users/hanny/.npm/bower-logger is being purged
+104 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/bower-logger
+105 silly gentlyRm /Users/hanny/.npm/bower-registry-client is being purged
+106 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/bower-registry-client
+107 silly gentlyRm /Users/hanny/.npm/brfs is being purged
+108 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/brfs
+109 silly gentlyRm /Users/hanny/.npm/browser-menu is being purged
+110 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/browser-menu
+111 silly gentlyRm /Users/hanny/.npm/browser-pack is being purged
+112 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/browser-pack
+113 silly gentlyRm /Users/hanny/.npm/browser-resolve is being purged
+114 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/browser-resolve
+115 silly gentlyRm /Users/hanny/.npm/browserify is being purged
+116 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/browserify
+117 silly gentlyRm /Users/hanny/.npm/browserify-zlib is being purged
+118 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/browserify-zlib
+119 silly gentlyRm /Users/hanny/.npm/buffer is being purged
+120 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/buffer
+121 silly gentlyRm /Users/hanny/.npm/buffers is being purged
+122 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/buffers
+123 silly gentlyRm /Users/hanny/.npm/builtins is being purged
+124 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/builtins
+125 silly gentlyRm /Users/hanny/.npm/callsite is being purged
+126 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/callsite
+127 silly gentlyRm /Users/hanny/.npm/camelcase is being purged
+128 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/camelcase
+129 silly gentlyRm /Users/hanny/.npm/camelcase-keys is being purged
+130 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/camelcase-keys
+131 silly gentlyRm /Users/hanny/.npm/caniuse-db is being purged
+132 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/caniuse-db
+133 silly gentlyRm /Users/hanny/.npm/canvas is being purged
+134 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/canvas
+135 silly gentlyRm /Users/hanny/.npm/canvas-browserify is being purged
+136 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/canvas-browserify
+137 silly gentlyRm /Users/hanny/.npm/canvas-fit is being purged
+138 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/canvas-fit
+139 silly gentlyRm /Users/hanny/.npm/canvas-pixels is being purged
+140 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/canvas-pixels
+141 silly gentlyRm /Users/hanny/.npm/cardinal is being purged
+142 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/cardinal
+143 silly gentlyRm /Users/hanny/.npm/caseless is being purged
+144 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/caseless
+145 silly gentlyRm /Users/hanny/.npm/chainsaw is being purged
+146 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/chainsaw
+147 silly gentlyRm /Users/hanny/.npm/chalk is being purged
+148 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/chalk
+149 silly gentlyRm /Users/hanny/.npm/charm is being purged
+150 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/charm
+151 silly gentlyRm /Users/hanny/.npm/cheerio is being purged
+152 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/cheerio
+153 silly gentlyRm /Users/hanny/.npm/chmodr is being purged
+154 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/chmodr
+155 silly gentlyRm /Users/hanny/.npm/chokidar is being purged
+156 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/chokidar
+157 silly gentlyRm /Users/hanny/.npm/clamp is being purged
+158 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/clamp
+159 silly gentlyRm /Users/hanny/.npm/class-extend is being purged
+160 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/class-extend
+161 silly gentlyRm /Users/hanny/.npm/cli-color is being purged
+162 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/cli-color
+163 silly gentlyRm /Users/hanny/.npm/cli-md is being purged
+164 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/cli-md
+165 silly gentlyRm /Users/hanny/.npm/clone-stats is being purged
+166 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/clone-stats
+167 silly gentlyRm /Users/hanny/.npm/cls is being purged
+168 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/cls
+169 silly gentlyRm /Users/hanny/.npm/color-parser is being purged
+170 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/color-parser
+171 silly gentlyRm /Users/hanny/.npm/colors is being purged
+172 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/colors
+173 silly gentlyRm /Users/hanny/.npm/colors-tmpl is being purged
+174 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/colors-tmpl
+175 silly gentlyRm /Users/hanny/.npm/combine-source-map is being purged
+176 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/combine-source-map
+177 silly gentlyRm /Users/hanny/.npm/combined-stream is being purged
+178 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/combined-stream
+179 silly gentlyRm /Users/hanny/.npm/commander is being purged
+180 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/commander
+181 silly gentlyRm /Users/hanny/.npm/commondir is being purged
+182 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/commondir
+183 silly gentlyRm /Users/hanny/.npm/compare-angle is being purged
+184 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/compare-angle
+185 silly gentlyRm /Users/hanny/.npm/concat-stream is being purged
+186 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/concat-stream
+187 silly gentlyRm /Users/hanny/.npm/config-chain is being purged
+188 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/config-chain
+189 silly gentlyRm /Users/hanny/.npm/configstore is being purged
+190 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/configstore
+191 silly gentlyRm /Users/hanny/.npm/console-browserify is being purged
+192 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/console-browserify
+193 silly gentlyRm /Users/hanny/.npm/constants-browserify is being purged
+194 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/constants-browserify
+195 silly gentlyRm /Users/hanny/.npm/convert-source-map is being purged
+196 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/convert-source-map
+197 silly gentlyRm /Users/hanny/.npm/conway-hart is being purged
+198 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/conway-hart
+199 silly gentlyRm /Users/hanny/.npm/cookie-jar is being purged
+200 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/cookie-jar
+201 silly gentlyRm /Users/hanny/.npm/core-util-is is being purged
+202 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/core-util-is
+203 silly gentlyRm /Users/hanny/.npm/cross-spawn is being purged
+204 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/cross-spawn
+205 silly gentlyRm /Users/hanny/.npm/cryptiles is being purged
+206 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/cryptiles
+207 silly gentlyRm /Users/hanny/.npm/crypto-browserify is being purged
+208 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/crypto-browserify
+209 silly gentlyRm /Users/hanny/.npm/css is being purged
+210 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/css
+211 silly gentlyRm /Users/hanny/.npm/css-parse is being purged
+212 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/css-parse
+213 silly gentlyRm /Users/hanny/.npm/css-stringify is being purged
+214 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/css-stringify
+215 silly gentlyRm /Users/hanny/.npm/cssauron is being purged
+216 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/cssauron
+217 silly gentlyRm /Users/hanny/.npm/cssauron-glsl is being purged
+218 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/cssauron-glsl
+219 silly gentlyRm /Users/hanny/.npm/ctype is being purged
+220 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ctype
+221 silly gentlyRm /Users/hanny/.npm/cwise is being purged
+222 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/cwise
+223 silly gentlyRm /Users/hanny/.npm/cwise-compiler is being purged
+224 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/cwise-compiler
+225 silly gentlyRm /Users/hanny/.npm/cwise-parser is being purged
+226 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/cwise-parser
+227 silly gentlyRm /Users/hanny/.npm/d is being purged
+228 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/d
+229 silly gentlyRm /Users/hanny/.npm/dargs is being purged
+230 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/dargs
+231 silly gentlyRm /Users/hanny/.npm/dashdash is being purged
+232 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/dashdash
+233 silly gentlyRm /Users/hanny/.npm/date-now is being purged
+234 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/date-now
+235 silly gentlyRm /Users/hanny/.npm/debug is being purged
+236 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/debug
+237 silly gentlyRm /Users/hanny/.npm/decompress is being purged
+238 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/decompress
+239 silly gentlyRm /Users/hanny/.npm/decompress-tar is being purged
+240 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/decompress-tar
+241 silly gentlyRm /Users/hanny/.npm/decompress-tarbz2 is being purged
+242 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/decompress-tarbz2
+243 silly gentlyRm /Users/hanny/.npm/decompress-targz is being purged
+244 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/decompress-targz
+245 silly gentlyRm /Users/hanny/.npm/decompress-unzip is being purged
+246 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/decompress-unzip
+247 silly gentlyRm /Users/hanny/.npm/decompress-zip is being purged
+248 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/decompress-zip
+249 silly gentlyRm /Users/hanny/.npm/deep-equal is being purged
+250 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/deep-equal
+251 silly gentlyRm /Users/hanny/.npm/deep-extend is being purged
+252 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/deep-extend
+253 silly gentlyRm /Users/hanny/.npm/defined is being purged
+254 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/defined
+255 silly gentlyRm /Users/hanny/.npm/delayed-stream is being purged
+256 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/delayed-stream
+257 silly gentlyRm /Users/hanny/.npm/deps-sort is being purged
+258 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/deps-sort
+259 silly gentlyRm /Users/hanny/.npm/derequire is being purged
+260 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/derequire
+261 silly gentlyRm /Users/hanny/.npm/detective is being purged
+262 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/detective
+263 silly gentlyRm /Users/hanny/.npm/diff is being purged
+264 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/diff
+265 silly gentlyRm /Users/hanny/.npm/dom-serializer is being purged
+266 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/dom-serializer
+267 silly gentlyRm /Users/hanny/.npm/dom-walk is being purged
+268 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/dom-walk
+269 silly gentlyRm /Users/hanny/.npm/domain-browser is being purged
+270 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/domain-browser
+271 silly gentlyRm /Users/hanny/.npm/domelementtype is being purged
+272 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/domelementtype
+273 silly gentlyRm /Users/hanny/.npm/domhandler is being purged
+274 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/domhandler
+275 silly gentlyRm /Users/hanny/.npm/domify is being purged
+276 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/domify
+277 silly gentlyRm /Users/hanny/.npm/domutils is being purged
+278 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/domutils
+279 silly gentlyRm /Users/hanny/.npm/download is being purged
+280 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/download
+281 silly gentlyRm /Users/hanny/.npm/dup is being purged
+282 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/dup
+283 silly gentlyRm /Users/hanny/.npm/duplexer is being purged
+284 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/duplexer
+285 silly gentlyRm /Users/hanny/.npm/duplexer2 is being purged
+286 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/duplexer2
+287 silly gentlyRm /Users/hanny/.npm/each-async is being purged
+288 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/each-async
+289 silly gentlyRm /Users/hanny/.npm/ecc-jsbn is being purged
+290 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ecc-jsbn
+291 silly gentlyRm /Users/hanny/.npm/ecstatic is being purged
+292 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ecstatic
+293 silly gentlyRm /Users/hanny/.npm/edges-to-adjacency-list is being purged
+294 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/edges-to-adjacency-list
+295 silly gentlyRm /Users/hanny/.npm/emit-function is being purged
+296 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/emit-function
+297 silly gentlyRm /Users/hanny/.npm/emitter-component is being purged
+298 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/emitter-component
+299 silly gentlyRm /Users/hanny/.npm/end-of-stream is being purged
+300 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/end-of-stream
+301 silly gentlyRm /Users/hanny/.npm/entities is being purged
+302 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/entities
+303 silly gentlyRm /Users/hanny/.npm/envify is being purged
+304 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/envify
+305 silly gentlyRm /Users/hanny/.npm/es5-ext is being purged
+306 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/es5-ext
+307 silly gentlyRm /Users/hanny/.npm/es6-iterator is being purged
+308 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/es6-iterator
+309 silly gentlyRm /Users/hanny/.npm/es6-symbol is being purged
+310 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/es6-symbol
+311 silly gentlyRm /Users/hanny/.npm/es6-weak-map is being purged
+312 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/es6-weak-map
+313 silly gentlyRm /Users/hanny/.npm/escape-string-regexp is being purged
+314 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/escape-string-regexp
+315 silly gentlyRm /Users/hanny/.npm/escodegen is being purged
+316 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/escodegen
+317 silly gentlyRm /Users/hanny/.npm/escope is being purged
+318 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/escope
+319 silly gentlyRm /Users/hanny/.npm/esprima is being purged
+320 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/esprima
+321 silly gentlyRm /Users/hanny/.npm/esprima-fb is being purged
+322 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/esprima-fb
+323 silly gentlyRm /Users/hanny/.npm/esprima-six is being purged
+324 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/esprima-six
+325 silly gentlyRm /Users/hanny/.npm/esrefactor is being purged
+326 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/esrefactor
+327 silly gentlyRm /Users/hanny/.npm/estraverse is being purged
+328 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/estraverse
+329 silly gentlyRm /Users/hanny/.npm/esutils is being purged
+330 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/esutils
+331 silly gentlyRm /Users/hanny/.npm/event-emitter is being purged
+332 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/event-emitter
+333 silly gentlyRm /Users/hanny/.npm/events is being purged
+334 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/events
+335 silly gentlyRm /Users/hanny/.npm/ext-list is being purged
+336 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ext-list
+337 silly gentlyRm /Users/hanny/.npm/ext-name is being purged
+338 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ext-name
+339 silly gentlyRm /Users/hanny/.npm/extend is being purged
+340 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/extend
+341 silly gentlyRm /Users/hanny/.npm/extract-frustum-planes is being purged
+342 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/extract-frustum-planes
+343 silly gentlyRm /Users/hanny/.npm/extsprintf is being purged
+344 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/extsprintf
+345 silly gentlyRm /Users/hanny/.npm/face-normals is being purged
+346 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/face-normals
+347 silly gentlyRm /Users/hanny/.npm/falafel is being purged
+348 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/falafel
+349 silly gentlyRm /Users/hanny/.npm/figures is being purged
+350 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/figures
+351 silly gentlyRm /Users/hanny/.npm/file-utils is being purged
+352 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/file-utils
+353 silly gentlyRm /Users/hanny/.npm/find-file is being purged
+354 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/find-file
+355 silly gentlyRm /Users/hanny/.npm/find-global-packages is being purged
+356 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/find-global-packages
+357 silly gentlyRm /Users/hanny/.npm/findup is being purged
+358 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/findup
+359 silly gentlyRm /Users/hanny/.npm/findup-element is being purged
+360 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/findup-element
+361 silly gentlyRm /Users/hanny/.npm/findup-sync is being purged
+362 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/findup-sync
+363 silly gentlyRm /Users/hanny/.npm/first-chunk-stream is being purged
+364 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/first-chunk-stream
+365 silly gentlyRm /Users/hanny/.npm/for-each is being purged
+366 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/for-each
+367 silly gentlyRm /Users/hanny/.npm/forever-agent is being purged
+368 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/forever-agent
+369 silly gentlyRm /Users/hanny/.npm/form-data is being purged
+370 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/form-data
+371 silly gentlyRm /Users/hanny/.npm/frame-debounce is being purged
+372 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/frame-debounce
+373 silly gentlyRm /Users/hanny/.npm/fs-extra is being purged
+374 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/fs-extra
+375 silly gentlyRm /Users/hanny/.npm/fsevents is being purged
+376 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/fsevents
+377 silly gentlyRm /Users/hanny/.npm/fstream is being purged
+378 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/fstream
+379 silly gentlyRm /Users/hanny/.npm/fstream-ignore is being purged
+380 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/fstream-ignore
+381 silly gentlyRm /Users/hanny/.npm/fullname is being purged
+382 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/fullname
+383 silly gentlyRm /Users/hanny/.npm/functional-red-black-tree is being purged
+384 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/functional-red-black-tree
+385 silly gentlyRm /Users/hanny/.npm/gamma is being purged
+386 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gamma
+387 silly gentlyRm /Users/hanny/.npm/generate-function is being purged
+388 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/generate-function
+389 silly gentlyRm /Users/hanny/.npm/generate-object-property is being purged
+390 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/generate-object-property
+391 silly gentlyRm /Users/hanny/.npm/generator-kraken is being purged
+392 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/generator-kraken
+393 silly gentlyRm /Users/hanny/.npm/get-pixels is being purged
+394 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/get-pixels
+395 silly gentlyRm /Users/hanny/.npm/get-stdin is being purged
+396 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/get-stdin
+397 silly gentlyRm /Users/hanny/.npm/get-urls is being purged
+398 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/get-urls
+399 silly gentlyRm /Users/hanny/.npm/git-it is being purged
+400 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/git-it
+401 silly gentlyRm /Users/hanny/.npm/github-oauth is being purged
+402 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/github-oauth
+403 silly gentlyRm /Users/hanny/.npm/github-username is being purged
+404 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/github-username
+405 silly gentlyRm /Users/hanny/.npm/gl-axes is being purged
+406 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gl-axes
+407 silly gentlyRm /Users/hanny/.npm/gl-buffer is being purged
+408 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gl-buffer
+409 silly gentlyRm /Users/hanny/.npm/gl-compare is being purged
+410 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gl-compare
+411 silly gentlyRm /Users/hanny/.npm/gl-compare-sidebar is being purged
+412 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gl-compare-sidebar
+413 silly gentlyRm /Users/hanny/.npm/gl-context is being purged
+414 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gl-context
+415 silly gentlyRm /Users/hanny/.npm/gl-fbo is being purged
+416 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gl-fbo
+417 silly gentlyRm /Users/hanny/.npm/gl-fbo-matching is being purged
+418 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gl-fbo-matching
+419 silly gentlyRm /Users/hanny/.npm/gl-matrix is being purged
+420 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gl-matrix
+421 silly gentlyRm /Users/hanny/.npm/gl-shader-core is being purged
+422 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gl-shader-core
+423 silly gentlyRm /Users/hanny/.npm/gl-shader-update is being purged
+424 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gl-shader-update
+425 silly gentlyRm /Users/hanny/.npm/gl-state is being purged
+426 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gl-state
+427 silly gentlyRm /Users/hanny/.npm/gl-texture2d is being purged
+428 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gl-texture2d
+429 silly gentlyRm /Users/hanny/.npm/gl-vao is being purged
+430 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gl-vao
+431 silly gentlyRm /Users/hanny/.npm/glob is being purged
+432 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/glob
+433 silly gentlyRm /Users/hanny/.npm/global is being purged
+434 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/global
+435 silly gentlyRm /Users/hanny/.npm/glsl-deparser is being purged
+436 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/glsl-deparser
+437 silly gentlyRm /Users/hanny/.npm/glsl-extract is being purged
+438 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/glsl-extract
+439 silly gentlyRm /Users/hanny/.npm/glsl-extract-sync is being purged
+440 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/glsl-extract-sync
+441 silly gentlyRm /Users/hanny/.npm/glsl-min-stream is being purged
+442 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/glsl-min-stream
+443 silly gentlyRm /Users/hanny/.npm/glsl-parser is being purged
+444 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/glsl-parser
+445 silly gentlyRm /Users/hanny/.npm/glsl-resolve is being purged
+446 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/glsl-resolve
+447 silly gentlyRm /Users/hanny/.npm/glsl-tokenizer is being purged
+448 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/glsl-tokenizer
+449 silly gentlyRm /Users/hanny/.npm/glsldoc is being purged
+450 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/glsldoc
+451 silly gentlyRm /Users/hanny/.npm/glslify is being purged
+452 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/glslify
+453 silly gentlyRm /Users/hanny/.npm/glslify-bundle is being purged
+454 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/glslify-bundle
+455 silly gentlyRm /Users/hanny/.npm/glslify-live is being purged
+456 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/glslify-live
+457 silly gentlyRm /Users/hanny/.npm/glslify-stream is being purged
+458 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/glslify-stream
+459 silly gentlyRm /Users/hanny/.npm/google-fonts is being purged
+460 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/google-fonts
+461 silly gentlyRm /Users/hanny/.npm/got is being purged
+462 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/got
+463 silly gentlyRm /Users/hanny/.npm/graceful-fs is being purged
+464 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/graceful-fs
+465 silly gentlyRm /Users/hanny/.npm/graceful-readlink is being purged
+466 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/graceful-readlink
+467 silly gentlyRm /Users/hanny/.npm/grouped-queue is being purged
+468 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/grouped-queue
+469 silly gentlyRm /Users/hanny/.npm/gruntfile-editor is being purged
+470 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/gruntfile-editor
+471 silly gentlyRm /Users/hanny/.npm/handlebars is being purged
+472 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/handlebars
+473 silly gentlyRm /Users/hanny/.npm/har-validator is being purged
+474 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/har-validator
+475 silly gentlyRm /Users/hanny/.npm/has-ansi is being purged
+476 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/has-ansi
+477 silly gentlyRm /Users/hanny/.npm/has-color is being purged
+478 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/has-color
+479 silly gentlyRm /Users/hanny/.npm/hawk is being purged
+480 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/hawk
+481 silly gentlyRm /Users/hanny/.npm/he is being purged
+482 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/he
+483 silly gentlyRm /Users/hanny/.npm/highlight.js is being purged
+484 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/highlight.js
+485 silly gentlyRm /Users/hanny/.npm/hoek is being purged
+486 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/hoek
+487 silly gentlyRm /Users/hanny/.npm/hsb2rgb is being purged
+488 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/hsb2rgb
+489 silly gentlyRm /Users/hanny/.npm/html-select is being purged
+490 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/html-select
+491 silly gentlyRm /Users/hanny/.npm/html-tokenize is being purged
+492 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/html-tokenize
+493 silly gentlyRm /Users/hanny/.npm/htmlparser2 is being purged
+494 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/htmlparser2
+495 silly gentlyRm /Users/hanny/.npm/http-browserify is being purged
+496 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/http-browserify
+497 silly gentlyRm /Users/hanny/.npm/http-errors is being purged
+498 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/http-errors
+499 silly gentlyRm /Users/hanny/.npm/http-signature is being purged
+500 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/http-signature
+501 silly gentlyRm /Users/hanny/.npm/https-browserify is being purged
+502 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/https-browserify
+503 silly gentlyRm /Users/hanny/.npm/hyperquest is being purged
+504 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/hyperquest
+505 silly gentlyRm /Users/hanny/.npm/iconv-lite is being purged
+506 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/iconv-lite
+507 silly gentlyRm /Users/hanny/.npm/ieee754 is being purged
+508 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ieee754
+509 silly gentlyRm /Users/hanny/.npm/ignorepatterns is being purged
+510 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ignorepatterns
+511 silly gentlyRm /Users/hanny/.npm/indent-string is being purged
+512 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/indent-string
+513 silly gentlyRm /Users/hanny/.npm/indexof is being purged
+514 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/indexof
+515 silly gentlyRm /Users/hanny/.npm/inherits is being purged
+516 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/inherits
+517 silly gentlyRm /Users/hanny/.npm/ini is being purged
+518 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ini
+519 silly gentlyRm /Users/hanny/.npm/inline-source-map is being purged
+520 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/inline-source-map
+521 silly gentlyRm /Users/hanny/.npm/inquirer is being purged
+522 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/inquirer
+523 silly gentlyRm /Users/hanny/.npm/insert-css is being purged
+524 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/insert-css
+525 silly gentlyRm /Users/hanny/.npm/insert-module-globals is being purged
+526 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/insert-module-globals
+527 silly gentlyRm /Users/hanny/.npm/insight is being purged
+528 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/insight
+529 silly gentlyRm /Users/hanny/.npm/intersect is being purged
+530 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/intersect
+531 silly gentlyRm /Users/hanny/.npm/invert-permutation is being purged
+532 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/invert-permutation
+533 silly gentlyRm /Users/hanny/.npm/iota-array is being purged
+534 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/iota-array
+535 silly gentlyRm /Users/hanny/.npm/is-7zip is being purged
+536 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-7zip
+537 silly gentlyRm /Users/hanny/.npm/is-absolute is being purged
+538 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-absolute
+539 silly gentlyRm /Users/hanny/.npm/is-array is being purged
+540 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-array
+541 silly gentlyRm /Users/hanny/.npm/is-bzip2 is being purged
+542 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-bzip2
+543 silly gentlyRm /Users/hanny/.npm/is-finite is being purged
+544 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-finite
+545 silly gentlyRm /Users/hanny/.npm/is-function is being purged
+546 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-function
+547 silly gentlyRm /Users/hanny/.npm/is-gzip is being purged
+548 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-gzip
+549 silly gentlyRm /Users/hanny/.npm/is-integer is being purged
+550 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-integer
+551 silly gentlyRm /Users/hanny/.npm/is-little-endian is being purged
+552 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-little-endian
+553 silly gentlyRm /Users/hanny/.npm/is-my-json-valid is being purged
+554 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-my-json-valid
+555 silly gentlyRm /Users/hanny/.npm/is-npm is being purged
+556 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-npm
+557 silly gentlyRm /Users/hanny/.npm/is-property is being purged
+558 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-property
+559 silly gentlyRm /Users/hanny/.npm/is-rar is being purged
+560 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-rar
+561 silly gentlyRm /Users/hanny/.npm/is-relative is being purged
+562 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-relative
+563 silly gentlyRm /Users/hanny/.npm/is-require is being purged
+564 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-require
+565 silly gentlyRm /Users/hanny/.npm/is-root is being purged
+566 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-root
+567 silly gentlyRm /Users/hanny/.npm/is-tar is being purged
+568 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-tar
+569 silly gentlyRm /Users/hanny/.npm/is-typedarray is being purged
+570 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-typedarray
+571 silly gentlyRm /Users/hanny/.npm/is-utf8 is being purged
+572 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-utf8
+573 silly gentlyRm /Users/hanny/.npm/is-zip is being purged
+574 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/is-zip
+575 silly gentlyRm /Users/hanny/.npm/isarray is being purged
+576 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/isarray
+577 silly gentlyRm /Users/hanny/.npm/isbinaryfile is being purged
+578 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/isbinaryfile
+579 silly gentlyRm /Users/hanny/.npm/isstream is being purged
+580 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/isstream
+581 silly gentlyRm /Users/hanny/.npm/jodid25519 is being purged
+582 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/jodid25519
+583 silly gentlyRm /Users/hanny/.npm/jpeg-js is being purged
+584 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/jpeg-js
+585 silly gentlyRm /Users/hanny/.npm/js-yaml is being purged
+586 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/js-yaml
+587 silly gentlyRm /Users/hanny/.npm/jsbn is being purged
+588 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/jsbn
+589 silly gentlyRm /Users/hanny/.npm/json-schema is being purged
+590 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/json-schema
+591 silly gentlyRm /Users/hanny/.npm/json-stringify-safe is being purged
+592 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/json-stringify-safe
+593 silly gentlyRm /Users/hanny/.npm/jsonfile is being purged
+594 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/jsonfile
+595 silly gentlyRm /Users/hanny/.npm/jsonify is being purged
+596 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/jsonify
+597 silly gentlyRm /Users/hanny/.npm/jsonparse is being purged
+598 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/jsonparse
+599 silly gentlyRm /Users/hanny/.npm/jsonpointer is being purged
+600 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/jsonpointer
+601 silly gentlyRm /Users/hanny/.npm/jsprim is being purged
+602 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/jsprim
+603 silly gentlyRm /Users/hanny/.npm/jstransform is being purged
+604 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/jstransform
+605 silly gentlyRm /Users/hanny/.npm/junk is being purged
+606 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/junk
+607 silly gentlyRm /Users/hanny/.npm/latest-version is being purged
+608 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/latest-version
+609 silly gentlyRm /Users/hanny/.npm/leftpad is being purged
+610 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/leftpad
+611 silly gentlyRm /Users/hanny/.npm/lexical-scope is being purged
+612 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/lexical-scope
+613 silly gentlyRm /Users/hanny/.npm/lockfile is being purged
+614 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/lockfile
+615 silly gentlyRm /Users/hanny/.npm/lodash is being purged
+616 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/lodash
+617 silly gentlyRm /Users/hanny/.npm/lodash._isnative is being purged
+618 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/lodash._isnative
+619 silly gentlyRm /Users/hanny/.npm/lodash._objecttypes is being purged
+620 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/lodash._objecttypes
+621 silly gentlyRm /Users/hanny/.npm/lodash.debounce is being purged
+622 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/lodash.debounce
+623 silly gentlyRm /Users/hanny/.npm/lodash.isfunction is being purged
+624 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/lodash.isfunction
+625 silly gentlyRm /Users/hanny/.npm/lodash.isobject is being purged
+626 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/lodash.isobject
+627 silly gentlyRm /Users/hanny/.npm/lodash.now is being purged
+628 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/lodash.now
+629 silly gentlyRm /Users/hanny/.npm/log-symbols is being purged
+630 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/log-symbols
+631 silly gentlyRm /Users/hanny/.npm/lru-cache is being purged
+632 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/lru-cache
+633 silly gentlyRm /Users/hanny/.npm/lru-queue is being purged
+634 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/lru-queue
+635 silly gentlyRm /Users/hanny/.npm/map-async is being purged
+636 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/map-async
+637 silly gentlyRm /Users/hanny/.npm/map-limit is being purged
+638 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/map-limit
+639 silly gentlyRm /Users/hanny/.npm/map-obj is being purged
+640 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/map-obj
+641 silly gentlyRm /Users/hanny/.npm/marked is being purged
+642 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/marked
+643 silly gentlyRm /Users/hanny/.npm/mem-fs is being purged
+644 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/mem-fs
+645 silly gentlyRm /Users/hanny/.npm/memoize-sync is being purged
+646 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/memoize-sync
+647 silly gentlyRm /Users/hanny/.npm/memoizee is being purged
+648 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/memoizee
+649 silly gentlyRm /Users/hanny/.npm/meow is being purged
+650 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/meow
+651 silly gentlyRm /Users/hanny/.npm/mesh-normals is being purged
+652 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/mesh-normals
+653 silly gentlyRm /Users/hanny/.npm/mime is being purged
+654 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/mime
+655 silly gentlyRm /Users/hanny/.npm/mime-db is being purged
+656 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/mime-db
+657 silly gentlyRm /Users/hanny/.npm/mime-types is being purged
+658 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/mime-types
+659 silly gentlyRm /Users/hanny/.npm/min-document is being purged
+660 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/min-document
+661 silly gentlyRm /Users/hanny/.npm/minimatch is being purged
+662 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/minimatch
+663 silly gentlyRm /Users/hanny/.npm/minimist is being purged
+664 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/minimist
+665 silly gentlyRm /Users/hanny/.npm/mkdirp is being purged
+666 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/mkdirp
+667 silly gentlyRm /Users/hanny/.npm/mkpath is being purged
+668 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/mkpath
+669 silly gentlyRm /Users/hanny/.npm/module-deps is being purged
+670 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/module-deps
+671 silly gentlyRm /Users/hanny/.npm/mouse-position is being purged
+672 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/mouse-position
+673 silly gentlyRm /Users/hanny/.npm/mouse-pressed is being purged
+674 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/mouse-pressed
+675 silly gentlyRm /Users/hanny/.npm/mout is being purged
+676 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/mout
+677 silly gentlyRm /Users/hanny/.npm/ms is being purged
+678 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ms
+679 silly gentlyRm /Users/hanny/.npm/msee is being purged
+680 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/msee
+681 silly gentlyRm /Users/hanny/.npm/multiline is being purged
+682 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/multiline
+683 silly gentlyRm /Users/hanny/.npm/multipipe is being purged
+684 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/multipipe
+685 silly gentlyRm /Users/hanny/.npm/mute-stream is being purged
+686 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/mute-stream
+687 silly gentlyRm /Users/hanny/.npm/nan is being purged
+688 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/nan
+689 silly gentlyRm /Users/hanny/.npm/ncp is being purged
+690 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ncp
+691 silly gentlyRm /Users/hanny/.npm/ndarray is being purged
+692 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ndarray
+693 silly gentlyRm /Users/hanny/.npm/ndarray-distance is being purged
+694 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ndarray-distance
+695 silly gentlyRm /Users/hanny/.npm/ndarray-extract-contour is being purged
+696 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ndarray-extract-contour
+697 silly gentlyRm /Users/hanny/.npm/ndarray-ops is being purged
+698 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ndarray-ops
+699 silly gentlyRm /Users/hanny/.npm/ndarray-pack is being purged
+700 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ndarray-pack
+701 silly gentlyRm /Users/hanny/.npm/ndpack-image is being purged
+702 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ndpack-image
+703 silly gentlyRm /Users/hanny/.npm/new-from is being purged
+704 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/new-from
+705 silly gentlyRm /Users/hanny/.npm/next-tick is being purged
+706 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/next-tick
+707 silly gentlyRm /Users/hanny/.npm/node-bitmap is being purged
+708 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/node-bitmap
+709 silly gentlyRm /Users/hanny/.npm/node-uuid is being purged
+710 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/node-uuid
+711 silly gentlyRm /Users/hanny/.npm/nopt is being purged
+712 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/nopt
+713 silly gentlyRm /Users/hanny/.npm/normals is being purged
+714 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/normals
+715 silly gentlyRm /Users/hanny/.npm/npmconf is being purged
+716 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/npmconf
+717 silly gentlyRm /Users/hanny/.npm/oauth-sign is being purged
+718 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/oauth-sign
+719 silly gentlyRm /Users/hanny/.npm/object-assign is being purged
+720 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/object-assign
+721 silly gentlyRm /Users/hanny/.npm/object-inspect is being purged
+722 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/object-inspect
+723 silly gentlyRm /Users/hanny/.npm/object-keys is being purged
+724 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/object-keys
+725 silly gentlyRm /Users/hanny/.npm/omggif is being purged
+726 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/omggif
+727 silly gentlyRm /Users/hanny/.npm/once is being purged
+728 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/once
+729 silly gentlyRm /Users/hanny/.npm/onetime is being purged
+730 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/onetime
+731 silly gentlyRm /Users/hanny/.npm/open is being purged
+732 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/open
+733 silly gentlyRm /Users/hanny/.npm/opener is being purged
+734 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/opener
+735 silly gentlyRm /Users/hanny/.npm/opn is being purged
+736 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/opn
+737 silly gentlyRm /Users/hanny/.npm/optimist is being purged
+738 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/optimist
+739 silly gentlyRm /Users/hanny/.npm/os-browserify is being purged
+740 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/os-browserify
+741 silly gentlyRm /Users/hanny/.npm/os-name is being purged
+742 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/os-name
+743 silly gentlyRm /Users/hanny/.npm/osenv is being purged
+744 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/osenv
+745 silly gentlyRm /Users/hanny/.npm/osx-release is being purged
+746 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/osx-release
+747 silly gentlyRm /Users/hanny/.npm/p-throttler is being purged
+748 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/p-throttler
+749 silly gentlyRm /Users/hanny/.npm/package-json is being purged
+750 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/package-json
+751 silly gentlyRm /Users/hanny/.npm/pad-component is being purged
+752 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/pad-component
+753 silly gentlyRm /Users/hanny/.npm/pako is being purged
+754 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/pako
+755 silly gentlyRm /Users/hanny/.npm/parents is being purged
+756 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/parents
+757 silly gentlyRm /Users/hanny/.npm/parse-headers is being purged
+758 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/parse-headers
+759 silly gentlyRm /Users/hanny/.npm/parse-import is being purged
+760 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/parse-import
+761 silly gentlyRm /Users/hanny/.npm/parse-ply is being purged
+762 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/parse-ply
+763 silly gentlyRm /Users/hanny/.npm/path-browserify is being purged
+764 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/path-browserify
+765 silly gentlyRm /Users/hanny/.npm/path-platform is being purged
+766 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/path-platform
+767 silly gentlyRm /Users/hanny/.npm/performance-now is being purged
+768 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/performance-now
+769 silly gentlyRm /Users/hanny/.npm/permutation-parity is being purged
+770 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/permutation-parity
+771 silly gentlyRm /Users/hanny/.npm/permutation-rank is being purged
+772 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/permutation-rank
+773 silly gentlyRm /Users/hanny/.npm/pinkie is being purged
+774 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/pinkie
+775 silly gentlyRm /Users/hanny/.npm/pinkie-promise is being purged
+776 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/pinkie-promise
+777 silly gentlyRm /Users/hanny/.npm/planar-dual is being purged
+778 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/planar-dual
+779 silly gentlyRm /Users/hanny/.npm/planar-graph-to-polyline is being purged
+780 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/planar-graph-to-polyline
+781 silly gentlyRm /Users/hanny/.npm/pngjs is being purged
+782 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/pngjs
+783 silly gentlyRm /Users/hanny/.npm/pngparse is being purged
+784 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/pngparse
+785 silly gentlyRm /Users/hanny/.npm/pngparse-sync is being purged
+786 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/pngparse-sync
+787 silly gentlyRm /Users/hanny/.npm/point-in-big-polygon is being purged
+788 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/point-in-big-polygon
+789 silly gentlyRm /Users/hanny/.npm/poly2tri is being purged
+790 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/poly2tri
+791 silly gentlyRm /Users/hanny/.npm/portfinder is being purged
+792 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/portfinder
+793 silly gentlyRm /Users/hanny/.npm/postcss is being purged
+794 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/postcss
+795 silly gentlyRm /Users/hanny/.npm/ppm is being purged
+796 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ppm
+797 silly gentlyRm /Users/hanny/.npm/pretty-bytes is being purged
+798 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/pretty-bytes
+799 silly gentlyRm /Users/hanny/.npm/private is being purged
+800 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/private
+801 silly gentlyRm /Users/hanny/.npm/process is being purged
+802 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/process
+803 silly gentlyRm /Users/hanny/.npm/process-nextick-args is being purged
+804 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/process-nextick-args
+805 silly gentlyRm /Users/hanny/.npm/promptly is being purged
+806 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/promptly
+807 silly gentlyRm /Users/hanny/.npm/proto-list is being purged
+808 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/proto-list
+809 silly gentlyRm /Users/hanny/.npm/pump is being purged
+810 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/pump
+811 silly gentlyRm /Users/hanny/.npm/punycode is being purged
+812 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/punycode
+813 silly gentlyRm /Users/hanny/.npm/q is being purged
+814 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/q
+815 silly gentlyRm /Users/hanny/.npm/qs is being purged
+816 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/qs
+817 silly gentlyRm /Users/hanny/.npm/querystring-es3 is being purged
+818 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/querystring-es3
+819 silly gentlyRm /Users/hanny/.npm/quote-stream is being purged
+820 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/quote-stream
+821 silly gentlyRm /Users/hanny/.npm/quotemeta is being purged
+822 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/quotemeta
+823 silly gentlyRm /Users/hanny/.npm/raf is being purged
+824 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/raf
+825 silly gentlyRm /Users/hanny/.npm/raf-component is being purged
+826 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/raf-component
+827 silly gentlyRm /Users/hanny/.npm/range-slider is being purged
+828 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/range-slider
+829 silly gentlyRm /Users/hanny/.npm/rc is being purged
+830 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/rc
+831 silly gentlyRm /Users/hanny/.npm/read is being purged
+832 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/read
+833 silly gentlyRm /Users/hanny/.npm/read-chunk is being purged
+834 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/read-chunk
+835 silly gentlyRm /Users/hanny/.npm/readable-stream is being purged
+836 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/readable-stream
+837 silly gentlyRm /Users/hanny/.npm/readable-wrap is being purged
+838 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/readable-wrap
+839 silly gentlyRm /Users/hanny/.npm/readline2 is being purged
+840 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/readline2
+841 silly gentlyRm /Users/hanny/.npm/recast is being purged
+842 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/recast
+843 silly gentlyRm /Users/hanny/.npm/recursive-readdir is being purged
+844 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/recursive-readdir
+845 silly gentlyRm /Users/hanny/.npm/redeyed is being purged
+846 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/redeyed
+847 silly gentlyRm /Users/hanny/.npm/registry-url is being purged
+848 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/registry-url
+849 silly gentlyRm /Users/hanny/.npm/remove-element is being purged
+850 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/remove-element
+851 silly gentlyRm /Users/hanny/.npm/repeating is being purged
+852 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/repeating
+853 silly gentlyRm /Users/hanny/.npm/replace-method is being purged
+854 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/replace-method
+855 silly gentlyRm /Users/hanny/.npm/request is being purged
+856 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/request
+857 silly gentlyRm /Users/hanny/.npm/request-progress is being purged
+858 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/request-progress
+859 silly gentlyRm /Users/hanny/.npm/request-replay is being purged
+860 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/request-replay
+861 silly gentlyRm /Users/hanny/.npm/resolve is being purged
+862 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/resolve
+863 silly gentlyRm /Users/hanny/.npm/response-stream is being purged
+864 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/response-stream
+865 silly gentlyRm /Users/hanny/.npm/resumer is being purged
+866 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/resumer
+867 silly gentlyRm /Users/hanny/.npm/retry is being purged
+868 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/retry
+869 silly gentlyRm /Users/hanny/.npm/rework is being purged
+870 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/rework
+871 silly gentlyRm /Users/hanny/.npm/rework-inherit is being purged
+872 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/rework-inherit
+873 silly gentlyRm /Users/hanny/.npm/rework-inline is being purged
+874 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/rework-inline
+875 silly gentlyRm /Users/hanny/.npm/rework-npm is being purged
+876 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/rework-npm
+877 silly gentlyRm /Users/hanny/.npm/rework-visit is being purged
+878 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/rework-visit
+879 silly gentlyRm /Users/hanny/.npm/rfile is being purged
+880 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/rfile
+881 silly gentlyRm /Users/hanny/.npm/right-now is being purged
+882 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/right-now
+883 silly gentlyRm /Users/hanny/.npm/rimraf is being purged
+884 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/rimraf
+885 silly gentlyRm /Users/hanny/.npm/ripemd160 is being purged
+886 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ripemd160
+887 silly gentlyRm /Users/hanny/.npm/robust-dot-product is being purged
+888 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/robust-dot-product
+889 silly gentlyRm /Users/hanny/.npm/robust-orientation is being purged
+890 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/robust-orientation
+891 silly gentlyRm /Users/hanny/.npm/robust-product is being purged
+892 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/robust-product
+893 silly gentlyRm /Users/hanny/.npm/robust-scale is being purged
+894 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/robust-scale
+895 silly gentlyRm /Users/hanny/.npm/robust-subtract is being purged
+896 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/robust-subtract
+897 silly gentlyRm /Users/hanny/.npm/robust-sum is being purged
+898 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/robust-sum
+899 silly gentlyRm /Users/hanny/.npm/ruglify is being purged
+900 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ruglify
+901 silly gentlyRm /Users/hanny/.npm/run-async is being purged
+902 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/run-async
+903 silly gentlyRm /Users/hanny/.npm/rx is being purged
+904 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/rx
+905 silly gentlyRm /Users/hanny/.npm/save-pixels is being purged
+906 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/save-pixels
+907 silly gentlyRm /Users/hanny/.npm/script-injector is being purged
+908 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/script-injector
+909 silly gentlyRm /Users/hanny/.npm/seek-bzip is being purged
+910 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/seek-bzip
+911 silly gentlyRm /Users/hanny/.npm/semver is being purged
+912 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/semver
+913 silly gentlyRm /Users/hanny/.npm/semver-diff is being purged
+914 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/semver-diff
+915 silly gentlyRm /Users/hanny/.npm/setimmediate is being purged
+916 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/setimmediate
+917 silly gentlyRm /Users/hanny/.npm/sha.js is being purged
+918 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/sha.js
+919 silly gentlyRm /Users/hanny/.npm/shallow-copy is being purged
+920 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/shallow-copy
+921 silly gentlyRm /Users/hanny/.npm/shell-quote is being purged
+922 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/shell-quote
+923 silly gentlyRm /Users/hanny/.npm/shelljs is being purged
+924 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/shelljs
+925 silly gentlyRm /Users/hanny/.npm/shortest is being purged
+926 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/shortest
+927 silly gentlyRm /Users/hanny/.npm/sidenote is being purged
+928 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/sidenote
+929 silly gentlyRm /Users/hanny/.npm/sigmund is being purged
+930 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/sigmund
+931 silly gentlyRm /Users/hanny/.npm/signum is being purged
+932 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/signum
+933 silly gentlyRm /Users/hanny/.npm/simple-bufferstream is being purged
+934 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/simple-bufferstream
+935 silly gentlyRm /Users/hanny/.npm/simplicial-complex is being purged
+936 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/simplicial-complex
+937 silly gentlyRm /Users/hanny/.npm/simplify-planar-graph is being purged
+938 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/simplify-planar-graph
+939 silly gentlyRm /Users/hanny/.npm/slab-decomposition is being purged
+940 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/slab-decomposition
+941 silly gentlyRm /Users/hanny/.npm/sleuth is being purged
+942 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/sleuth
+943 silly gentlyRm /Users/hanny/.npm/sliced is being purged
+944 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/sliced
+945 silly gentlyRm /Users/hanny/.npm/sntp is being purged
+946 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/sntp
+947 silly gentlyRm /Users/hanny/.npm/source-map is being purged
+948 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/source-map
+949 silly gentlyRm /Users/hanny/.npm/split is being purged
+950 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/split
+951 silly gentlyRm /Users/hanny/.npm/split-polygon is being purged
+952 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/split-polygon
+953 silly gentlyRm /Users/hanny/.npm/sse-stream is being purged
+954 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/sse-stream
+955 silly gentlyRm /Users/hanny/.npm/sshpk is being purged
+956 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/sshpk
+957 silly gentlyRm /Users/hanny/.npm/stanford-dragon is being purged
+958 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/stanford-dragon
+959 silly gentlyRm /Users/hanny/.npm/static-eval is being purged
+960 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/static-eval
+961 silly gentlyRm /Users/hanny/.npm/static-module is being purged
+962 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/static-module
+963 silly gentlyRm /Users/hanny/.npm/statuses is being purged
+964 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/statuses
+965 silly gentlyRm /Users/hanny/.npm/stream-browserify is being purged
+966 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/stream-browserify
+967 silly gentlyRm /Users/hanny/.npm/stream-combiner is being purged
+968 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/stream-combiner
+969 silly gentlyRm /Users/hanny/.npm/stream-splicer is being purged
+970 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/stream-splicer
+971 silly gentlyRm /Users/hanny/.npm/string-length is being purged
+972 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/string-length
+973 silly gentlyRm /Users/hanny/.npm/string_decoder is being purged
+974 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/string_decoder
+975 silly gentlyRm /Users/hanny/.npm/stringify-object is being purged
+976 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/stringify-object
+977 silly gentlyRm /Users/hanny/.npm/stringstream is being purged
+978 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/stringstream
+979 silly gentlyRm /Users/hanny/.npm/strip is being purged
+980 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/strip
+981 silly gentlyRm /Users/hanny/.npm/strip-ansi is being purged
+982 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/strip-ansi
+983 silly gentlyRm /Users/hanny/.npm/strip-bom is being purged
+984 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/strip-bom
+985 silly gentlyRm /Users/hanny/.npm/strip-dirs is being purged
+986 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/strip-dirs
+987 silly gentlyRm /Users/hanny/.npm/strip-indent is being purged
+988 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/strip-indent
+989 silly gentlyRm /Users/hanny/.npm/strip-json-comments is being purged
+990 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/strip-json-comments
+991 silly gentlyRm /Users/hanny/.npm/subarg is being purged
+992 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/subarg
+993 silly gentlyRm /Users/hanny/.npm/sudo-block is being purged
+994 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/sudo-block
+995 silly gentlyRm /Users/hanny/.npm/supports-color is being purged
+996 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/supports-color
+997 silly gentlyRm /Users/hanny/.npm/surface-nets is being purged
+998 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/surface-nets
+999 silly gentlyRm /Users/hanny/.npm/syntax-error is being purged
+1000 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/syntax-error
+1001 silly gentlyRm /Users/hanny/.npm/taketalk is being purged
+1002 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/taketalk
+1003 silly gentlyRm /Users/hanny/.npm/tar is being purged
+1004 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/tar
+1005 silly gentlyRm /Users/hanny/.npm/tar-fs is being purged
+1006 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/tar-fs
+1007 silly gentlyRm /Users/hanny/.npm/tar-stream is being purged
+1008 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/tar-stream
+1009 silly gentlyRm /Users/hanny/.npm/temp-write is being purged
+1010 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/temp-write
+1011 silly gentlyRm /Users/hanny/.npm/tempfile is being purged
+1012 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/tempfile
+1013 silly gentlyRm /Users/hanny/.npm/terminal-menu is being purged
+1014 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/terminal-menu
+1015 silly gentlyRm /Users/hanny/.npm/terminus is being purged
+1016 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/terminus
+1017 silly gentlyRm /Users/hanny/.npm/text-table is being purged
+1018 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/text-table
+1019 silly gentlyRm /Users/hanny/.npm/throttleit is being purged
+1020 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/throttleit
+1021 silly gentlyRm /Users/hanny/.npm/through is being purged
+1022 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/through
+1023 silly gentlyRm /Users/hanny/.npm/through2 is being purged
+1024 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/through2
+1025 silly gentlyRm /Users/hanny/.npm/through2-map is being purged
+1026 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/through2-map
+1027 silly gentlyRm /Users/hanny/.npm/timers-browserify is being purged
+1028 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/timers-browserify
+1029 silly gentlyRm /Users/hanny/.npm/timers-ext is being purged
+1030 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/timers-ext
+1031 silly gentlyRm /Users/hanny/.npm/tmp is being purged
+1032 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/tmp
+1033 silly gentlyRm /Users/hanny/.npm/to-utf8 is being purged
+1034 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/to-utf8
+1035 silly gentlyRm /Users/hanny/.npm/touch is being purged
+1036 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/touch
+1037 silly gentlyRm /Users/hanny/.npm/tough-cookie is being purged
+1038 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/tough-cookie
+1039 silly gentlyRm /Users/hanny/.npm/traverse is being purged
+1040 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/traverse
+1041 silly gentlyRm /Users/hanny/.npm/triangulate-hypercube is being purged
+1042 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/triangulate-hypercube
+1043 silly gentlyRm /Users/hanny/.npm/triangulate-polyline is being purged
+1044 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/triangulate-polyline
+1045 silly gentlyRm /Users/hanny/.npm/trim is being purged
+1046 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/trim
+1047 silly gentlyRm /Users/hanny/.npm/trumpet is being purged
+1048 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/trumpet
+1049 silly gentlyRm /Users/hanny/.npm/tty-browserify is being purged
+1050 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/tty-browserify
+1051 silly gentlyRm /Users/hanny/.npm/tunnel-agent is being purged
+1052 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/tunnel-agent
+1053 silly gentlyRm /Users/hanny/.npm/tuple-stream is being purged
+1054 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/tuple-stream
+1055 silly gentlyRm /Users/hanny/.npm/tweetnacl is being purged
+1056 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/tweetnacl
+1057 silly gentlyRm /Users/hanny/.npm/two-product is being purged
+1058 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/two-product
+1059 silly gentlyRm /Users/hanny/.npm/two-sum is being purged
+1060 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/two-sum
+1061 silly gentlyRm /Users/hanny/.npm/typedarray is being purged
+1062 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/typedarray
+1063 silly gentlyRm /Users/hanny/.npm/typedarray-pool is being purged
+1064 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/typedarray-pool
+1065 silly gentlyRm /Users/hanny/.npm/uglify-js is being purged
+1066 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/uglify-js
+1067 silly gentlyRm /Users/hanny/.npm/uglify-to-browserify is being purged
+1068 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/uglify-to-browserify
+1069 silly gentlyRm /Users/hanny/.npm/uid-number is being purged
+1070 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/uid-number
+1071 silly gentlyRm /Users/hanny/.npm/umd is being purged
+1072 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/umd
+1073 silly gentlyRm /Users/hanny/.npm/underscore is being purged
+1074 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/underscore
+1075 silly gentlyRm /Users/hanny/.npm/underscore.string is being purged
+1076 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/underscore.string
+1077 silly gentlyRm /Users/hanny/.npm/unindex-mesh is being purged
+1078 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/unindex-mesh
+1079 silly gentlyRm /Users/hanny/.npm/union-find is being purged
+1080 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/union-find
+1081 silly gentlyRm /Users/hanny/.npm/uniq is being purged
+1082 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/uniq
+1083 silly gentlyRm /Users/hanny/.npm/unpipe is being purged
+1084 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/unpipe
+1085 silly gentlyRm /Users/hanny/.npm/untildify is being purged
+1086 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/untildify
+1087 silly gentlyRm /Users/hanny/.npm/update-notifier is being purged
+1088 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/update-notifier
+1089 silly gentlyRm /Users/hanny/.npm/url is being purged
+1090 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/url
+1091 silly gentlyRm /Users/hanny/.npm/user-home is being purged
+1092 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/user-home
+1093 silly gentlyRm /Users/hanny/.npm/utf8-stream is being purged
+1094 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/utf8-stream
+1095 silly gentlyRm /Users/hanny/.npm/util is being purged
+1096 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/util
+1097 silly gentlyRm /Users/hanny/.npm/util-deprecate is being purged
+1098 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/util-deprecate
+1099 silly gentlyRm /Users/hanny/.npm/uuid is being purged
+1100 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/uuid
+1101 silly gentlyRm /Users/hanny/.npm/vectorize-text is being purged
+1102 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/vectorize-text
+1103 silly gentlyRm /Users/hanny/.npm/verror is being purged
+1104 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/verror
+1105 silly gentlyRm /Users/hanny/.npm/vinyl is being purged
+1106 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/vinyl
+1107 silly gentlyRm /Users/hanny/.npm/vinyl-file is being purged
+1108 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/vinyl-file
+1109 silly gentlyRm /Users/hanny/.npm/vkey is being purged
+1110 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/vkey
+1111 silly gentlyRm /Users/hanny/.npm/vm-browserify is being purged
+1112 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/vm-browserify
+1113 silly gentlyRm /Users/hanny/.npm/ware is being purged
+1114 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/ware
+1115 silly gentlyRm /Users/hanny/.npm/weakmap is being purged
+1116 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/weakmap
+1117 silly gentlyRm /Users/hanny/.npm/webglew is being purged
+1118 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/webglew
+1119 silly gentlyRm /Users/hanny/.npm/which is being purged
+1120 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/which
+1121 silly gentlyRm /Users/hanny/.npm/word-wrap is being purged
+1122 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/word-wrap
+1123 silly gentlyRm /Users/hanny/.npm/wordwrap is being purged
+1124 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/wordwrap
+1125 silly gentlyRm /Users/hanny/.npm/workshopper is being purged
+1126 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/workshopper
+1127 silly gentlyRm /Users/hanny/.npm/workshopper-boilerplate is being purged
+1128 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/workshopper-boilerplate
+1129 silly gentlyRm /Users/hanny/.npm/workshopper-exercise is being purged
+1130 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/workshopper-exercise
+1131 silly gentlyRm /Users/hanny/.npm/workshopper-jlord is being purged
+1132 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/workshopper-jlord
+1133 silly gentlyRm /Users/hanny/.npm/workshopper-wrappedexec is being purged
+1134 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/workshopper-wrappedexec
+1135 silly gentlyRm /Users/hanny/.npm/wrap-stream is being purged
+1136 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/wrap-stream
+1137 silly gentlyRm /Users/hanny/.npm/wrappy is being purged
+1138 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/wrappy
+1139 silly gentlyRm /Users/hanny/.npm/x256 is being purged
+1140 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/x256
+1141 silly gentlyRm /Users/hanny/.npm/xhr is being purged
+1142 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/xhr
+1143 silly gentlyRm /Users/hanny/.npm/xtend is being purged
+1144 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/xtend
+1145 silly gentlyRm /Users/hanny/.npm/yeoman-character is being purged
+1146 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/yeoman-character
+1147 silly gentlyRm /Users/hanny/.npm/yeoman-doctor is being purged
+1148 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/yeoman-doctor
+1149 silly gentlyRm /Users/hanny/.npm/yeoman-environment is being purged
+1150 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/yeoman-environment
+1151 silly gentlyRm /Users/hanny/.npm/yeoman-generator is being purged
+1152 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/yeoman-generator
+1153 silly gentlyRm /Users/hanny/.npm/yo is being purged
+1154 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/yo
+1155 silly gentlyRm /Users/hanny/.npm/yosay is being purged
+1156 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/yosay
+1157 silly gentlyRm /Users/hanny/.npm/zero-crossings is being purged
+1158 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/zero-crossings
+1159 silly gentlyRm /Users/hanny/.npm/zfill is being purged
+1160 verbose gentlyRm don't care about contents; nuking /Users/hanny/.npm/zfill
+1161 silly vacuum-fs purging /Users/hanny/.npm/Base64
+1162 silly vacuum-fs purging /Users/hanny/.npm/CSSselect
+1163 silly vacuum-fs purging /Users/hanny/.npm/CSSwhat
+1164 silly vacuum-fs purging /Users/hanny/.npm/JSONStream
+1165 silly vacuum-fs purging /Users/hanny/.npm/_git-remotes
+1166 silly vacuum-fs purging /Users/hanny/.npm/a-big-triangle
+1167 silly vacuum-fs purging /Users/hanny/.npm/abbrev
+1168 silly vacuum-fs purging /Users/hanny/.npm/adm-zip
+1169 silly vacuum-fs purging /Users/hanny/.npm/adventure
+1170 silly vacuum-fs purging /Users/hanny/.npm/after
+1171 silly vacuum-fs purging /Users/hanny/.npm/amdefine
+1172 silly vacuum-fs purging /Users/hanny/.npm/ansi-regex
+1173 silly vacuum-fs purging /Users/hanny/.npm/ansi-styles
+1174 silly vacuum-fs purging /Users/hanny/.npm/ansicolors
+1175 silly vacuum-fs purging /Users/hanny/.npm/apprise
+1176 silly vacuum-fs purging /Users/hanny/.npm/archive-type
+1177 silly vacuum-fs purging /Users/hanny/.npm/archy
+1178 silly vacuum-fs purging /Users/hanny/.npm/argparse
+1179 silly vacuum-fs purging /Users/hanny/.npm/array-filter
+1180 silly vacuum-fs purging /Users/hanny/.npm/array-map
+1181 silly vacuum-fs purging /Users/hanny/.npm/array-reduce
+1182 silly vacuum-fs purging /Users/hanny/.npm/asn1
+1183 silly vacuum-fs purging /Users/hanny/.npm/assert
+1184 silly vacuum-fs purging /Users/hanny/.npm/assert-plus
+1185 silly vacuum-fs purging /Users/hanny/.npm/ast-query
+1186 silly vacuum-fs purging /Users/hanny/.npm/ast-types
+1187 silly vacuum-fs purging /Users/hanny/.npm/astw
+1188 silly vacuum-fs purging /Users/hanny/.npm/async
+1189 silly vacuum-fs purging /Users/hanny/.npm/autoprefixer
+1190 silly vacuum-fs purging /Users/hanny/.npm/aws-sign
+1191 silly vacuum-fs purging /Users/hanny/.npm/aws-sign2
+1192 silly vacuum-fs purging /Users/hanny/.npm/aws4
+1193 silly vacuum-fs purging /Users/hanny/.npm/baboon-image
+1194 silly vacuum-fs purging /Users/hanny/.npm/base62
+1195 silly vacuum-fs purging /Users/hanny/.npm/base64-js
+1196 silly vacuum-fs purging /Users/hanny/.npm/beefy
+1197 silly vacuum-fs purging /Users/hanny/.npm/binary
+1198 silly vacuum-fs purging /Users/hanny/.npm/binary-search-bounds
+1199 silly vacuum-fs purging /Users/hanny/.npm/bit-twiddle
+1200 silly vacuum-fs purging /Users/hanny/.npm/bl
+1201 silly vacuum-fs purging /Users/hanny/.npm/block-stream
+1202 silly vacuum-fs purging /Users/hanny/.npm/boganipsum
+1203 silly vacuum-fs purging /Users/hanny/.npm/boom
+1204 silly vacuum-fs purging /Users/hanny/.npm/bops
+1205 silly vacuum-fs purging /Users/hanny/.npm/bower
+1206 silly vacuum-fs purging /Users/hanny/.npm/bower-config
+1207 silly vacuum-fs purging /Users/hanny/.npm/bower-endpoint-parser
+1208 silly vacuum-fs purging /Users/hanny/.npm/bower-json
+1209 silly vacuum-fs purging /Users/hanny/.npm/bower-logger
+1210 silly vacuum-fs purging /Users/hanny/.npm/bower-registry-client
+1211 silly vacuum-fs purging /Users/hanny/.npm/brfs
+1212 silly vacuum-fs purging /Users/hanny/.npm/browser-menu
+1213 silly vacuum-fs purging /Users/hanny/.npm/browser-pack
+1214 silly vacuum-fs purging /Users/hanny/.npm/browser-resolve
+1215 silly vacuum-fs purging /Users/hanny/.npm/browserify
+1216 silly vacuum-fs purging /Users/hanny/.npm/browserify-zlib
+1217 silly vacuum-fs purging /Users/hanny/.npm/buffer
+1218 silly vacuum-fs purging /Users/hanny/.npm/buffers
+1219 silly vacuum-fs purging /Users/hanny/.npm/builtins
+1220 silly vacuum-fs purging /Users/hanny/.npm/callsite
+1221 silly vacuum-fs purging /Users/hanny/.npm/camelcase
+1222 silly vacuum-fs purging /Users/hanny/.npm/camelcase-keys
+1223 silly vacuum-fs purging /Users/hanny/.npm/caniuse-db
+1224 silly vacuum-fs purging /Users/hanny/.npm/canvas
+1225 silly vacuum-fs purging /Users/hanny/.npm/canvas-browserify
+1226 silly vacuum-fs purging /Users/hanny/.npm/canvas-fit
+1227 silly vacuum-fs purging /Users/hanny/.npm/canvas-pixels
+1228 silly vacuum-fs purging /Users/hanny/.npm/cardinal
+1229 silly vacuum-fs purging /Users/hanny/.npm/caseless
+1230 silly vacuum-fs purging /Users/hanny/.npm/chainsaw
+1231 silly vacuum-fs purging /Users/hanny/.npm/chalk
+1232 silly vacuum-fs purging /Users/hanny/.npm/charm
+1233 silly vacuum-fs purging /Users/hanny/.npm/cheerio
+1234 silly vacuum-fs purging /Users/hanny/.npm/chmodr
+1235 silly vacuum-fs purging /Users/hanny/.npm/chokidar
+1236 silly vacuum-fs purging /Users/hanny/.npm/clamp
+1237 silly vacuum-fs purging /Users/hanny/.npm/class-extend
+1238 silly vacuum-fs purging /Users/hanny/.npm/cli-color
+1239 silly vacuum-fs purging /Users/hanny/.npm/cli-md
+1240 silly vacuum-fs purging /Users/hanny/.npm/clone-stats
+1241 silly vacuum-fs purging /Users/hanny/.npm/cls
+1242 silly vacuum-fs purging /Users/hanny/.npm/color-parser
+1243 silly vacuum-fs purging /Users/hanny/.npm/colors
+1244 silly vacuum-fs purging /Users/hanny/.npm/colors-tmpl
+1245 silly vacuum-fs purging /Users/hanny/.npm/combine-source-map
+1246 silly vacuum-fs purging /Users/hanny/.npm/combined-stream
+1247 silly vacuum-fs purging /Users/hanny/.npm/commander
+1248 silly vacuum-fs purging /Users/hanny/.npm/commondir
+1249 silly vacuum-fs purging /Users/hanny/.npm/compare-angle
+1250 silly vacuum-fs purging /Users/hanny/.npm/concat-stream
+1251 silly vacuum-fs purging /Users/hanny/.npm/config-chain
+1252 silly vacuum-fs purging /Users/hanny/.npm/configstore
+1253 silly vacuum-fs purging /Users/hanny/.npm/console-browserify
+1254 silly vacuum-fs purging /Users/hanny/.npm/constants-browserify
+1255 silly vacuum-fs purging /Users/hanny/.npm/convert-source-map
+1256 silly vacuum-fs purging /Users/hanny/.npm/conway-hart
+1257 silly vacuum-fs purging /Users/hanny/.npm/cookie-jar
+1258 silly vacuum-fs purging /Users/hanny/.npm/core-util-is
+1259 silly vacuum-fs purging /Users/hanny/.npm/cross-spawn
+1260 silly vacuum-fs purging /Users/hanny/.npm/cryptiles
+1261 silly vacuum-fs purging /Users/hanny/.npm/crypto-browserify
+1262 silly vacuum-fs purging /Users/hanny/.npm/css
+1263 silly vacuum-fs purging /Users/hanny/.npm/css-parse
+1264 silly vacuum-fs purging /Users/hanny/.npm/css-stringify
+1265 silly vacuum-fs purging /Users/hanny/.npm/cssauron
+1266 silly vacuum-fs purging /Users/hanny/.npm/cssauron-glsl
+1267 silly vacuum-fs purging /Users/hanny/.npm/ctype
+1268 silly vacuum-fs purging /Users/hanny/.npm/cwise
+1269 silly vacuum-fs purging /Users/hanny/.npm/cwise-compiler
+1270 silly vacuum-fs purging /Users/hanny/.npm/cwise-parser
+1271 silly vacuum-fs purging /Users/hanny/.npm/d
+1272 silly vacuum-fs purging /Users/hanny/.npm/dargs
+1273 silly vacuum-fs purging /Users/hanny/.npm/dashdash
+1274 silly vacuum-fs purging /Users/hanny/.npm/date-now
+1275 silly vacuum-fs purging /Users/hanny/.npm/debug
+1276 silly vacuum-fs purging /Users/hanny/.npm/decompress
+1277 silly vacuum-fs purging /Users/hanny/.npm/decompress-tar
+1278 silly vacuum-fs purging /Users/hanny/.npm/decompress-tarbz2
+1279 silly vacuum-fs purging /Users/hanny/.npm/decompress-targz
+1280 silly vacuum-fs purging /Users/hanny/.npm/decompress-unzip
+1281 silly vacuum-fs purging /Users/hanny/.npm/decompress-zip
+1282 silly vacuum-fs purging /Users/hanny/.npm/deep-equal
+1283 silly vacuum-fs purging /Users/hanny/.npm/deep-extend
+1284 silly vacuum-fs purging /Users/hanny/.npm/defined
+1285 silly vacuum-fs purging /Users/hanny/.npm/delayed-stream
+1286 silly vacuum-fs purging /Users/hanny/.npm/deps-sort
+1287 silly vacuum-fs purging /Users/hanny/.npm/derequire
+1288 silly vacuum-fs purging /Users/hanny/.npm/detective
+1289 silly vacuum-fs purging /Users/hanny/.npm/diff
+1290 silly vacuum-fs purging /Users/hanny/.npm/dom-serializer
+1291 silly vacuum-fs purging /Users/hanny/.npm/dom-walk
+1292 silly vacuum-fs purging /Users/hanny/.npm/domain-browser
+1293 silly vacuum-fs purging /Users/hanny/.npm/domelementtype
+1294 silly vacuum-fs purging /Users/hanny/.npm/domhandler
+1295 silly vacuum-fs purging /Users/hanny/.npm/domify
+1296 silly vacuum-fs purging /Users/hanny/.npm/domutils
+1297 silly vacuum-fs purging /Users/hanny/.npm/download
+1298 silly vacuum-fs purging /Users/hanny/.npm/dup
+1299 silly vacuum-fs purging /Users/hanny/.npm/duplexer
+1300 silly vacuum-fs purging /Users/hanny/.npm/duplexer2
+1301 silly vacuum-fs purging /Users/hanny/.npm/each-async
+1302 silly vacuum-fs purging /Users/hanny/.npm/ecc-jsbn
+1303 silly vacuum-fs purging /Users/hanny/.npm/ecstatic
+1304 silly vacuum-fs purging /Users/hanny/.npm/edges-to-adjacency-list
+1305 silly vacuum-fs purging /Users/hanny/.npm/emit-function
+1306 silly vacuum-fs purging /Users/hanny/.npm/emitter-component
+1307 silly vacuum-fs purging /Users/hanny/.npm/end-of-stream
+1308 silly vacuum-fs purging /Users/hanny/.npm/entities
+1309 silly vacuum-fs purging /Users/hanny/.npm/envify
+1310 silly vacuum-fs purging /Users/hanny/.npm/es5-ext
+1311 silly vacuum-fs purging /Users/hanny/.npm/es6-iterator
+1312 silly vacuum-fs purging /Users/hanny/.npm/es6-symbol
+1313 silly vacuum-fs purging /Users/hanny/.npm/es6-weak-map
+1314 silly vacuum-fs purging /Users/hanny/.npm/escape-string-regexp
+1315 silly vacuum-fs purging /Users/hanny/.npm/escodegen
+1316 silly vacuum-fs purging /Users/hanny/.npm/escope
+1317 silly vacuum-fs purging /Users/hanny/.npm/esprima
+1318 silly vacuum-fs purging /Users/hanny/.npm/esprima-fb
+1319 silly vacuum-fs purging /Users/hanny/.npm/esprima-six
+1320 silly vacuum-fs purging /Users/hanny/.npm/esrefactor
+1321 silly vacuum-fs purging /Users/hanny/.npm/estraverse
+1322 silly vacuum-fs purging /Users/hanny/.npm/esutils
+1323 silly vacuum-fs purging /Users/hanny/.npm/event-emitter
+1324 silly vacuum-fs purging /Users/hanny/.npm/events
+1325 silly vacuum-fs purging /Users/hanny/.npm/ext-list
+1326 silly vacuum-fs purging /Users/hanny/.npm/ext-name
+1327 silly vacuum-fs purging /Users/hanny/.npm/extend
+1328 silly vacuum-fs purging /Users/hanny/.npm/extract-frustum-planes
+1329 silly vacuum-fs purging /Users/hanny/.npm/extsprintf
+1330 silly vacuum-fs purging /Users/hanny/.npm/face-normals
+1331 silly vacuum-fs purging /Users/hanny/.npm/falafel
+1332 silly vacuum-fs purging /Users/hanny/.npm/figures
+1333 silly vacuum-fs purging /Users/hanny/.npm/file-utils
+1334 silly vacuum-fs purging /Users/hanny/.npm/find-file
+1335 silly vacuum-fs purging /Users/hanny/.npm/find-global-packages
+1336 silly vacuum-fs purging /Users/hanny/.npm/findup
+1337 silly vacuum-fs purging /Users/hanny/.npm/findup-element
+1338 silly vacuum-fs purging /Users/hanny/.npm/findup-sync
+1339 silly vacuum-fs purging /Users/hanny/.npm/first-chunk-stream
+1340 silly vacuum-fs purging /Users/hanny/.npm/for-each
+1341 silly vacuum-fs purging /Users/hanny/.npm/forever-agent
+1342 silly vacuum-fs purging /Users/hanny/.npm/form-data
+1343 silly vacuum-fs purging /Users/hanny/.npm/frame-debounce
+1344 silly vacuum-fs purging /Users/hanny/.npm/fs-extra
+1345 silly vacuum-fs purging /Users/hanny/.npm/fsevents
+1346 silly vacuum-fs purging /Users/hanny/.npm/fstream
+1347 silly vacuum-fs purging /Users/hanny/.npm/fstream-ignore
+1348 silly vacuum-fs purging /Users/hanny/.npm/fullname
+1349 silly vacuum-fs purging /Users/hanny/.npm/functional-red-black-tree
+1350 silly vacuum-fs purging /Users/hanny/.npm/gamma
+1351 silly vacuum-fs purging /Users/hanny/.npm/generate-function
+1352 silly vacuum-fs purging /Users/hanny/.npm/generate-object-property
+1353 silly vacuum-fs purging /Users/hanny/.npm/generator-kraken
+1354 silly vacuum-fs purging /Users/hanny/.npm/get-pixels
+1355 silly vacuum-fs purging /Users/hanny/.npm/get-stdin
+1356 silly vacuum-fs purging /Users/hanny/.npm/get-urls
+1357 silly vacuum-fs purging /Users/hanny/.npm/git-it
+1358 silly vacuum-fs purging /Users/hanny/.npm/github-oauth
+1359 silly vacuum-fs purging /Users/hanny/.npm/github-username
+1360 silly vacuum-fs purging /Users/hanny/.npm/gl-axes
+1361 silly vacuum-fs purging /Users/hanny/.npm/gl-buffer
+1362 silly vacuum-fs purging /Users/hanny/.npm/gl-compare
+1363 silly vacuum-fs purging /Users/hanny/.npm/gl-compare-sidebar
+1364 silly vacuum-fs purging /Users/hanny/.npm/gl-context
+1365 silly vacuum-fs purging /Users/hanny/.npm/gl-fbo
+1366 silly vacuum-fs purging /Users/hanny/.npm/gl-fbo-matching
+1367 silly vacuum-fs purging /Users/hanny/.npm/gl-matrix
+1368 silly vacuum-fs purging /Users/hanny/.npm/gl-shader-core
+1369 silly vacuum-fs purging /Users/hanny/.npm/gl-shader-update
+1370 silly vacuum-fs purging /Users/hanny/.npm/gl-state
+1371 silly vacuum-fs purging /Users/hanny/.npm/gl-texture2d
+1372 silly vacuum-fs purging /Users/hanny/.npm/gl-vao
+1373 silly vacuum-fs purging /Users/hanny/.npm/glob
+1374 silly vacuum-fs purging /Users/hanny/.npm/global
+1375 silly vacuum-fs purging /Users/hanny/.npm/glsl-deparser
+1376 silly vacuum-fs purging /Users/hanny/.npm/glsl-extract
+1377 silly vacuum-fs purging /Users/hanny/.npm/glsl-extract-sync
+1378 silly vacuum-fs purging /Users/hanny/.npm/glsl-min-stream
+1379 silly vacuum-fs purging /Users/hanny/.npm/glsl-parser
+1380 silly vacuum-fs purging /Users/hanny/.npm/glsl-resolve
+1381 silly vacuum-fs purging /Users/hanny/.npm/glsl-tokenizer
+1382 silly vacuum-fs purging /Users/hanny/.npm/glsldoc
+1383 silly vacuum-fs purging /Users/hanny/.npm/glslify
+1384 silly vacuum-fs purging /Users/hanny/.npm/glslify-bundle
+1385 silly vacuum-fs purging /Users/hanny/.npm/glslify-live
+1386 silly vacuum-fs purging /Users/hanny/.npm/glslify-stream
+1387 silly vacuum-fs purging /Users/hanny/.npm/google-fonts
+1388 silly vacuum-fs purging /Users/hanny/.npm/got
+1389 silly vacuum-fs purging /Users/hanny/.npm/graceful-fs
+1390 silly vacuum-fs purging /Users/hanny/.npm/graceful-readlink
+1391 silly vacuum-fs purging /Users/hanny/.npm/grouped-queue
+1392 silly vacuum-fs purging /Users/hanny/.npm/gruntfile-editor
+1393 silly vacuum-fs purging /Users/hanny/.npm/handlebars
+1394 silly vacuum-fs purging /Users/hanny/.npm/har-validator
+1395 silly vacuum-fs purging /Users/hanny/.npm/has-ansi
+1396 silly vacuum-fs purging /Users/hanny/.npm/has-color
+1397 silly vacuum-fs purging /Users/hanny/.npm/hawk
+1398 silly vacuum-fs purging /Users/hanny/.npm/he
+1399 silly vacuum-fs purging /Users/hanny/.npm/highlight.js
+1400 silly vacuum-fs purging /Users/hanny/.npm/hoek
+1401 silly vacuum-fs purging /Users/hanny/.npm/hsb2rgb
+1402 silly vacuum-fs purging /Users/hanny/.npm/html-select
+1403 silly vacuum-fs purging /Users/hanny/.npm/html-tokenize
+1404 silly vacuum-fs purging /Users/hanny/.npm/htmlparser2
+1405 silly vacuum-fs purging /Users/hanny/.npm/http-browserify
+1406 silly vacuum-fs purging /Users/hanny/.npm/http-errors
+1407 silly vacuum-fs purging /Users/hanny/.npm/http-signature
+1408 silly vacuum-fs purging /Users/hanny/.npm/https-browserify
+1409 silly vacuum-fs purging /Users/hanny/.npm/hyperquest
+1410 silly vacuum-fs purging /Users/hanny/.npm/iconv-lite
+1411 silly vacuum-fs purging /Users/hanny/.npm/ieee754
+1412 silly vacuum-fs purging /Users/hanny/.npm/ignorepatterns
+1413 silly vacuum-fs purging /Users/hanny/.npm/indent-string
+1414 silly vacuum-fs purging /Users/hanny/.npm/indexof
+1415 silly vacuum-fs purging /Users/hanny/.npm/inherits
+1416 silly vacuum-fs purging /Users/hanny/.npm/ini
+1417 silly vacuum-fs purging /Users/hanny/.npm/inline-source-map
+1418 silly vacuum-fs purging /Users/hanny/.npm/inquirer
+1419 silly vacuum-fs purging /Users/hanny/.npm/insert-css
+1420 silly vacuum-fs purging /Users/hanny/.npm/insert-module-globals
+1421 silly vacuum-fs purging /Users/hanny/.npm/insight
+1422 silly vacuum-fs purging /Users/hanny/.npm/intersect
+1423 silly vacuum-fs purging /Users/hanny/.npm/invert-permutation
+1424 silly vacuum-fs purging /Users/hanny/.npm/iota-array
+1425 silly vacuum-fs purging /Users/hanny/.npm/is-7zip
+1426 silly vacuum-fs purging /Users/hanny/.npm/is-absolute
+1427 silly vacuum-fs purging /Users/hanny/.npm/is-array
+1428 silly vacuum-fs purging /Users/hanny/.npm/is-bzip2
+1429 silly vacuum-fs purging /Users/hanny/.npm/is-finite
+1430 silly vacuum-fs purging /Users/hanny/.npm/is-function
+1431 silly vacuum-fs purging /Users/hanny/.npm/is-gzip
+1432 silly vacuum-fs purging /Users/hanny/.npm/is-integer
+1433 silly vacuum-fs purging /Users/hanny/.npm/is-little-endian
+1434 silly vacuum-fs purging /Users/hanny/.npm/is-my-json-valid
+1435 silly vacuum-fs purging /Users/hanny/.npm/is-npm
+1436 silly vacuum-fs purging /Users/hanny/.npm/is-property
+1437 silly vacuum-fs purging /Users/hanny/.npm/is-rar
+1438 silly vacuum-fs purging /Users/hanny/.npm/is-relative
+1439 silly vacuum-fs purging /Users/hanny/.npm/is-require
+1440 silly vacuum-fs purging /Users/hanny/.npm/is-root
+1441 silly vacuum-fs purging /Users/hanny/.npm/is-tar
+1442 silly vacuum-fs purging /Users/hanny/.npm/is-typedarray
+1443 silly vacuum-fs purging /Users/hanny/.npm/is-utf8
+1444 silly vacuum-fs purging /Users/hanny/.npm/is-zip
+1445 silly vacuum-fs purging /Users/hanny/.npm/isarray
+1446 silly vacuum-fs purging /Users/hanny/.npm/isbinaryfile
+1447 silly vacuum-fs purging /Users/hanny/.npm/isstream
+1448 silly vacuum-fs purging /Users/hanny/.npm/jodid25519
+1449 silly vacuum-fs purging /Users/hanny/.npm/jpeg-js
+1450 silly vacuum-fs purging /Users/hanny/.npm/js-yaml
+1451 silly vacuum-fs purging /Users/hanny/.npm/jsbn
+1452 silly vacuum-fs purging /Users/hanny/.npm/json-schema
+1453 silly vacuum-fs purging /Users/hanny/.npm/json-stringify-safe
+1454 silly vacuum-fs purging /Users/hanny/.npm/jsonfile
+1455 silly vacuum-fs purging /Users/hanny/.npm/jsonify
+1456 silly vacuum-fs purging /Users/hanny/.npm/jsonparse
+1457 silly vacuum-fs purging /Users/hanny/.npm/jsonpointer
+1458 silly vacuum-fs purging /Users/hanny/.npm/jsprim
+1459 silly vacuum-fs purging /Users/hanny/.npm/jstransform
+1460 silly vacuum-fs purging /Users/hanny/.npm/junk
+1461 silly vacuum-fs purging /Users/hanny/.npm/latest-version
+1462 silly vacuum-fs purging /Users/hanny/.npm/leftpad
+1463 silly vacuum-fs purging /Users/hanny/.npm/lexical-scope
+1464 silly vacuum-fs purging /Users/hanny/.npm/lockfile
+1465 silly vacuum-fs purging /Users/hanny/.npm/lodash
+1466 silly vacuum-fs purging /Users/hanny/.npm/lodash._isnative
+1467 silly vacuum-fs purging /Users/hanny/.npm/lodash._objecttypes
+1468 silly vacuum-fs purging /Users/hanny/.npm/lodash.debounce
+1469 silly vacuum-fs purging /Users/hanny/.npm/lodash.isfunction
+1470 silly vacuum-fs purging /Users/hanny/.npm/lodash.isobject
+1471 silly vacuum-fs purging /Users/hanny/.npm/lodash.now
+1472 silly vacuum-fs purging /Users/hanny/.npm/log-symbols
+1473 silly vacuum-fs purging /Users/hanny/.npm/lru-cache
+1474 silly vacuum-fs purging /Users/hanny/.npm/lru-queue
+1475 silly vacuum-fs purging /Users/hanny/.npm/map-async
+1476 silly vacuum-fs purging /Users/hanny/.npm/map-limit
+1477 silly vacuum-fs purging /Users/hanny/.npm/map-obj
+1478 silly vacuum-fs purging /Users/hanny/.npm/marked
+1479 silly vacuum-fs purging /Users/hanny/.npm/mem-fs
+1480 silly vacuum-fs purging /Users/hanny/.npm/memoize-sync
+1481 silly vacuum-fs purging /Users/hanny/.npm/memoizee
+1482 silly vacuum-fs purging /Users/hanny/.npm/meow
+1483 silly vacuum-fs purging /Users/hanny/.npm/mesh-normals
+1484 silly vacuum-fs purging /Users/hanny/.npm/mime
+1485 silly vacuum-fs purging /Users/hanny/.npm/mime-db
+1486 silly vacuum-fs purging /Users/hanny/.npm/mime-types
+1487 silly vacuum-fs purging /Users/hanny/.npm/min-document
+1488 silly vacuum-fs purging /Users/hanny/.npm/minimatch
+1489 silly vacuum-fs purging /Users/hanny/.npm/minimist
+1490 silly vacuum-fs purging /Users/hanny/.npm/mkdirp
+1491 silly vacuum-fs purging /Users/hanny/.npm/mkpath
+1492 silly vacuum-fs purging /Users/hanny/.npm/module-deps
+1493 silly vacuum-fs purging /Users/hanny/.npm/mouse-position
+1494 silly vacuum-fs purging /Users/hanny/.npm/mouse-pressed
+1495 silly vacuum-fs purging /Users/hanny/.npm/mout
+1496 silly vacuum-fs purging /Users/hanny/.npm/ms
+1497 silly vacuum-fs purging /Users/hanny/.npm/msee
+1498 silly vacuum-fs purging /Users/hanny/.npm/multiline
+1499 silly vacuum-fs purging /Users/hanny/.npm/multipipe
+1500 silly vacuum-fs purging /Users/hanny/.npm/mute-stream
+1501 silly vacuum-fs purging /Users/hanny/.npm/nan
+1502 silly vacuum-fs purging /Users/hanny/.npm/ncp
+1503 silly vacuum-fs purging /Users/hanny/.npm/ndarray
+1504 silly vacuum-fs purging /Users/hanny/.npm/ndarray-distance
+1505 silly vacuum-fs purging /Users/hanny/.npm/ndarray-extract-contour
+1506 silly vacuum-fs purging /Users/hanny/.npm/ndarray-ops
+1507 silly vacuum-fs purging /Users/hanny/.npm/ndarray-pack
+1508 silly vacuum-fs purging /Users/hanny/.npm/ndpack-image
+1509 silly vacuum-fs purging /Users/hanny/.npm/new-from
+1510 silly vacuum-fs purging /Users/hanny/.npm/next-tick
+1511 silly vacuum-fs purging /Users/hanny/.npm/node-bitmap
+1512 silly vacuum-fs purging /Users/hanny/.npm/node-uuid
+1513 silly vacuum-fs purging /Users/hanny/.npm/nopt
+1514 silly vacuum-fs purging /Users/hanny/.npm/normals
+1515 silly vacuum-fs purging /Users/hanny/.npm/npmconf
+1516 silly vacuum-fs purging /Users/hanny/.npm/oauth-sign
+1517 silly vacuum-fs purging /Users/hanny/.npm/object-assign
+1518 silly vacuum-fs purging /Users/hanny/.npm/object-inspect
+1519 silly vacuum-fs purging /Users/hanny/.npm/object-keys
+1520 silly vacuum-fs purging /Users/hanny/.npm/omggif
+1521 silly vacuum-fs purging /Users/hanny/.npm/once
+1522 silly vacuum-fs purging /Users/hanny/.npm/onetime
+1523 silly vacuum-fs purging /Users/hanny/.npm/open
+1524 silly vacuum-fs purging /Users/hanny/.npm/opener
+1525 silly vacuum-fs purging /Users/hanny/.npm/opn
+1526 silly vacuum-fs purging /Users/hanny/.npm/optimist
+1527 silly vacuum-fs purging /Users/hanny/.npm/os-browserify
+1528 silly vacuum-fs purging /Users/hanny/.npm/os-name
+1529 silly vacuum-fs purging /Users/hanny/.npm/osenv
+1530 silly vacuum-fs purging /Users/hanny/.npm/osx-release
+1531 silly vacuum-fs purging /Users/hanny/.npm/p-throttler
+1532 silly vacuum-fs purging /Users/hanny/.npm/package-json
+1533 silly vacuum-fs purging /Users/hanny/.npm/pad-component
+1534 silly vacuum-fs purging /Users/hanny/.npm/pako
+1535 silly vacuum-fs purging /Users/hanny/.npm/parents
+1536 silly vacuum-fs purging /Users/hanny/.npm/parse-headers
+1537 silly vacuum-fs purging /Users/hanny/.npm/parse-import
+1538 silly vacuum-fs purging /Users/hanny/.npm/parse-ply
+1539 silly vacuum-fs purging /Users/hanny/.npm/path-browserify
+1540 silly vacuum-fs purging /Users/hanny/.npm/path-platform
+1541 silly vacuum-fs purging /Users/hanny/.npm/performance-now
+1542 silly vacuum-fs purging /Users/hanny/.npm/permutation-parity
+1543 silly vacuum-fs purging /Users/hanny/.npm/permutation-rank
+1544 silly vacuum-fs purging /Users/hanny/.npm/pinkie
+1545 silly vacuum-fs purging /Users/hanny/.npm/pinkie-promise
+1546 silly vacuum-fs purging /Users/hanny/.npm/planar-dual
+1547 silly vacuum-fs purging /Users/hanny/.npm/planar-graph-to-polyline
+1548 silly vacuum-fs purging /Users/hanny/.npm/pngjs
+1549 silly vacuum-fs purging /Users/hanny/.npm/pngparse
+1550 silly vacuum-fs purging /Users/hanny/.npm/pngparse-sync
+1551 silly vacuum-fs purging /Users/hanny/.npm/point-in-big-polygon
+1552 silly vacuum-fs purging /Users/hanny/.npm/poly2tri
+1553 silly vacuum-fs purging /Users/hanny/.npm/portfinder
+1554 silly vacuum-fs purging /Users/hanny/.npm/postcss
+1555 silly vacuum-fs purging /Users/hanny/.npm/ppm
+1556 silly vacuum-fs purging /Users/hanny/.npm/pretty-bytes
+1557 silly vacuum-fs purging /Users/hanny/.npm/private
+1558 silly vacuum-fs purging /Users/hanny/.npm/process
+1559 silly vacuum-fs purging /Users/hanny/.npm/process-nextick-args
+1560 silly vacuum-fs purging /Users/hanny/.npm/promptly
+1561 silly vacuum-fs purging /Users/hanny/.npm/proto-list
+1562 silly vacuum-fs purging /Users/hanny/.npm/pump
+1563 silly vacuum-fs purging /Users/hanny/.npm/punycode
+1564 silly vacuum-fs purging /Users/hanny/.npm/q
+1565 silly vacuum-fs purging /Users/hanny/.npm/qs
+1566 silly vacuum-fs purging /Users/hanny/.npm/querystring-es3
+1567 silly vacuum-fs purging /Users/hanny/.npm/quote-stream
+1568 silly vacuum-fs purging /Users/hanny/.npm/quotemeta
+1569 silly vacuum-fs purging /Users/hanny/.npm/raf
+1570 silly vacuum-fs purging /Users/hanny/.npm/raf-component
+1571 silly vacuum-fs purging /Users/hanny/.npm/range-slider
+1572 silly vacuum-fs purging /Users/hanny/.npm/rc
+1573 silly vacuum-fs purging /Users/hanny/.npm/read
+1574 silly vacuum-fs purging /Users/hanny/.npm/read-chunk
+1575 silly vacuum-fs purging /Users/hanny/.npm/readable-stream
+1576 silly vacuum-fs purging /Users/hanny/.npm/readable-wrap
+1577 silly vacuum-fs purging /Users/hanny/.npm/readline2
+1578 silly vacuum-fs purging /Users/hanny/.npm/recast
+1579 silly vacuum-fs purging /Users/hanny/.npm/recursive-readdir
+1580 silly vacuum-fs purging /Users/hanny/.npm/redeyed
+1581 silly vacuum-fs purging /Users/hanny/.npm/registry-url
+1582 silly vacuum-fs purging /Users/hanny/.npm/remove-element
+1583 silly vacuum-fs purging /Users/hanny/.npm/repeating
+1584 silly vacuum-fs purging /Users/hanny/.npm/replace-method
+1585 silly vacuum-fs purging /Users/hanny/.npm/request
+1586 silly vacuum-fs purging /Users/hanny/.npm/request-progress
+1587 silly vacuum-fs purging /Users/hanny/.npm/request-replay
+1588 silly vacuum-fs purging /Users/hanny/.npm/resolve
+1589 silly vacuum-fs purging /Users/hanny/.npm/response-stream
+1590 silly vacuum-fs purging /Users/hanny/.npm/resumer
+1591 silly vacuum-fs purging /Users/hanny/.npm/retry
+1592 silly vacuum-fs purging /Users/hanny/.npm/rework
+1593 silly vacuum-fs purging /Users/hanny/.npm/rework-inherit
+1594 silly vacuum-fs purging /Users/hanny/.npm/rework-inline
+1595 silly vacuum-fs purging /Users/hanny/.npm/rework-npm
+1596 silly vacuum-fs purging /Users/hanny/.npm/rework-visit
+1597 silly vacuum-fs purging /Users/hanny/.npm/rfile
+1598 silly vacuum-fs purging /Users/hanny/.npm/right-now
+1599 silly vacuum-fs purging /Users/hanny/.npm/rimraf
+1600 silly vacuum-fs purging /Users/hanny/.npm/ripemd160
+1601 silly vacuum-fs purging /Users/hanny/.npm/robust-dot-product
+1602 silly vacuum-fs purging /Users/hanny/.npm/robust-orientation
+1603 silly vacuum-fs purging /Users/hanny/.npm/robust-product
+1604 silly vacuum-fs purging /Users/hanny/.npm/robust-scale
+1605 silly vacuum-fs purging /Users/hanny/.npm/robust-subtract
+1606 silly vacuum-fs purging /Users/hanny/.npm/robust-sum
+1607 silly vacuum-fs purging /Users/hanny/.npm/ruglify
+1608 silly vacuum-fs purging /Users/hanny/.npm/run-async
+1609 silly vacuum-fs purging /Users/hanny/.npm/rx
+1610 silly vacuum-fs purging /Users/hanny/.npm/save-pixels
+1611 silly vacuum-fs purging /Users/hanny/.npm/script-injector
+1612 silly vacuum-fs purging /Users/hanny/.npm/seek-bzip
+1613 silly vacuum-fs purging /Users/hanny/.npm/semver
+1614 silly vacuum-fs purging /Users/hanny/.npm/semver-diff
+1615 silly vacuum-fs purging /Users/hanny/.npm/setimmediate
+1616 silly vacuum-fs purging /Users/hanny/.npm/sha.js
+1617 silly vacuum-fs purging /Users/hanny/.npm/shallow-copy
+1618 silly vacuum-fs purging /Users/hanny/.npm/shell-quote
+1619 silly vacuum-fs purging /Users/hanny/.npm/shelljs
+1620 silly vacuum-fs purging /Users/hanny/.npm/shortest
+1621 silly vacuum-fs purging /Users/hanny/.npm/sidenote
+1622 silly vacuum-fs purging /Users/hanny/.npm/sigmund
+1623 silly vacuum-fs purging /Users/hanny/.npm/signum
+1624 silly vacuum-fs purging /Users/hanny/.npm/simple-bufferstream
+1625 silly vacuum-fs purging /Users/hanny/.npm/simplicial-complex
+1626 silly vacuum-fs purging /Users/hanny/.npm/simplify-planar-graph
+1627 silly vacuum-fs purging /Users/hanny/.npm/slab-decomposition
+1628 silly vacuum-fs purging /Users/hanny/.npm/sleuth
+1629 silly vacuum-fs purging /Users/hanny/.npm/sliced
+1630 silly vacuum-fs purging /Users/hanny/.npm/sntp
+1631 silly vacuum-fs purging /Users/hanny/.npm/source-map
+1632 silly vacuum-fs purging /Users/hanny/.npm/split
+1633 silly vacuum-fs purging /Users/hanny/.npm/split-polygon
+1634 silly vacuum-fs purging /Users/hanny/.npm/sse-stream
+1635 silly vacuum-fs purging /Users/hanny/.npm/sshpk
+1636 silly vacuum-fs purging /Users/hanny/.npm/stanford-dragon
+1637 silly vacuum-fs purging /Users/hanny/.npm/static-eval
+1638 silly vacuum-fs purging /Users/hanny/.npm/static-module
+1639 silly vacuum-fs purging /Users/hanny/.npm/statuses
+1640 silly vacuum-fs purging /Users/hanny/.npm/stream-browserify
+1641 silly vacuum-fs purging /Users/hanny/.npm/stream-combiner
+1642 silly vacuum-fs purging /Users/hanny/.npm/stream-splicer
+1643 silly vacuum-fs purging /Users/hanny/.npm/string-length
+1644 silly vacuum-fs purging /Users/hanny/.npm/string_decoder
+1645 silly vacuum-fs purging /Users/hanny/.npm/stringify-object
+1646 silly vacuum-fs purging /Users/hanny/.npm/stringstream
+1647 silly vacuum-fs purging /Users/hanny/.npm/strip
+1648 silly vacuum-fs purging /Users/hanny/.npm/strip-ansi
+1649 silly vacuum-fs purging /Users/hanny/.npm/strip-bom
+1650 silly vacuum-fs purging /Users/hanny/.npm/strip-dirs
+1651 silly vacuum-fs purging /Users/hanny/.npm/strip-indent
+1652 silly vacuum-fs purging /Users/hanny/.npm/strip-json-comments
+1653 silly vacuum-fs purging /Users/hanny/.npm/subarg
+1654 silly vacuum-fs purging /Users/hanny/.npm/sudo-block
+1655 silly vacuum-fs purging /Users/hanny/.npm/supports-color
+1656 silly vacuum-fs purging /Users/hanny/.npm/surface-nets
+1657 silly vacuum-fs purging /Users/hanny/.npm/syntax-error
+1658 silly vacuum-fs purging /Users/hanny/.npm/taketalk
+1659 silly vacuum-fs purging /Users/hanny/.npm/tar
+1660 silly vacuum-fs purging /Users/hanny/.npm/tar-fs
+1661 silly vacuum-fs purging /Users/hanny/.npm/temp-write
+1662 silly vacuum-fs purging /Users/hanny/.npm/tar-stream
+1663 silly vacuum-fs purging /Users/hanny/.npm/tempfile
+1664 silly vacuum-fs purging /Users/hanny/.npm/terminal-menu
+1665 silly vacuum-fs purging /Users/hanny/.npm/terminus
+1666 silly vacuum-fs purging /Users/hanny/.npm/text-table
+1667 silly vacuum-fs purging /Users/hanny/.npm/throttleit
+1668 silly vacuum-fs purging /Users/hanny/.npm/through
+1669 silly vacuum-fs purging /Users/hanny/.npm/through2
+1670 silly vacuum-fs purging /Users/hanny/.npm/through2-map
+1671 silly vacuum-fs purging /Users/hanny/.npm/timers-browserify
+1672 silly vacuum-fs purging /Users/hanny/.npm/timers-ext
+1673 silly vacuum-fs purging /Users/hanny/.npm/tmp
+1674 silly vacuum-fs purging /Users/hanny/.npm/to-utf8
+1675 silly vacuum-fs purging /Users/hanny/.npm/touch
+1676 silly vacuum-fs purging /Users/hanny/.npm/tough-cookie
+1677 silly vacuum-fs purging /Users/hanny/.npm/traverse
+1678 silly vacuum-fs purging /Users/hanny/.npm/triangulate-hypercube
+1679 silly vacuum-fs purging /Users/hanny/.npm/triangulate-polyline
+1680 silly vacuum-fs purging /Users/hanny/.npm/trim
+1681 silly vacuum-fs purging /Users/hanny/.npm/trumpet
+1682 silly vacuum-fs purging /Users/hanny/.npm/tty-browserify
+1683 silly vacuum-fs purging /Users/hanny/.npm/tunnel-agent
+1684 silly vacuum-fs purging /Users/hanny/.npm/tuple-stream
+1685 silly vacuum-fs purging /Users/hanny/.npm/tweetnacl
+1686 silly vacuum-fs purging /Users/hanny/.npm/two-product
+1687 silly vacuum-fs purging /Users/hanny/.npm/two-sum
+1688 silly vacuum-fs purging /Users/hanny/.npm/typedarray
+1689 silly vacuum-fs purging /Users/hanny/.npm/typedarray-pool
+1690 silly vacuum-fs purging /Users/hanny/.npm/uglify-js
+1691 silly vacuum-fs purging /Users/hanny/.npm/uglify-to-browserify
+1692 silly vacuum-fs purging /Users/hanny/.npm/uid-number
+1693 silly vacuum-fs purging /Users/hanny/.npm/umd
+1694 silly vacuum-fs purging /Users/hanny/.npm/underscore
+1695 silly vacuum-fs purging /Users/hanny/.npm/underscore.string
+1696 silly vacuum-fs purging /Users/hanny/.npm/unindex-mesh
+1697 silly vacuum-fs purging /Users/hanny/.npm/union-find
+1698 silly vacuum-fs purging /Users/hanny/.npm/uniq
+1699 silly vacuum-fs purging /Users/hanny/.npm/unpipe
+1700 silly vacuum-fs purging /Users/hanny/.npm/untildify
+1701 silly vacuum-fs purging /Users/hanny/.npm/update-notifier
+1702 silly vacuum-fs purging /Users/hanny/.npm/url
+1703 silly vacuum-fs purging /Users/hanny/.npm/user-home
+1704 silly vacuum-fs purging /Users/hanny/.npm/utf8-stream
+1705 silly vacuum-fs purging /Users/hanny/.npm/util
+1706 silly vacuum-fs purging /Users/hanny/.npm/util-deprecate
+1707 silly vacuum-fs purging /Users/hanny/.npm/uuid
+1708 silly vacuum-fs purging /Users/hanny/.npm/vectorize-text
+1709 silly vacuum-fs purging /Users/hanny/.npm/verror
+1710 silly vacuum-fs purging /Users/hanny/.npm/vinyl
+1711 silly vacuum-fs purging /Users/hanny/.npm/vinyl-file
+1712 silly vacuum-fs purging /Users/hanny/.npm/vkey
+1713 silly vacuum-fs purging /Users/hanny/.npm/vm-browserify
+1714 silly vacuum-fs purging /Users/hanny/.npm/ware
+1715 silly vacuum-fs purging /Users/hanny/.npm/weakmap
+1716 silly vacuum-fs purging /Users/hanny/.npm/webglew
+1717 silly vacuum-fs purging /Users/hanny/.npm/which
+1718 silly vacuum-fs purging /Users/hanny/.npm/word-wrap
+1719 silly vacuum-fs purging /Users/hanny/.npm/wordwrap
+1720 silly vacuum-fs purging /Users/hanny/.npm/workshopper
+1721 silly vacuum-fs purging /Users/hanny/.npm/workshopper-boilerplate
+1722 silly vacuum-fs purging /Users/hanny/.npm/workshopper-exercise
+1723 silly vacuum-fs purging /Users/hanny/.npm/workshopper-jlord
+1724 silly vacuum-fs purging /Users/hanny/.npm/workshopper-wrappedexec
+1725 silly vacuum-fs purging /Users/hanny/.npm/wrap-stream
+1726 silly vacuum-fs purging /Users/hanny/.npm/wrappy
+1727 silly vacuum-fs purging /Users/hanny/.npm/x256
+1728 silly vacuum-fs purging /Users/hanny/.npm/xhr
+1729 silly vacuum-fs purging /Users/hanny/.npm/xtend
+1730 silly vacuum-fs purging /Users/hanny/.npm/yeoman-character
+1731 silly vacuum-fs purging /Users/hanny/.npm/yeoman-doctor
+1732 silly vacuum-fs purging /Users/hanny/.npm/yeoman-environment
+1733 silly vacuum-fs purging /Users/hanny/.npm/yeoman-generator
+1734 silly vacuum-fs purging /Users/hanny/.npm/yo
+1735 silly vacuum-fs purging /Users/hanny/.npm/yosay
+1736 silly vacuum-fs purging /Users/hanny/.npm/zero-crossings
+1737 silly vacuum-fs purging /Users/hanny/.npm/zfill
+1738 verbose stack Error: EACCES, rmdir '/Users/hanny/.npm/Base64/0.2.1'
+1739 verbose cwd /Users/hanny/Desktop/Dromo Extras/lambda/Rail-API
+1740 error Darwin 16.7.0
+1741 error argv "node" "/usr/local/bin/npm" "cache" "clean" "-f"
+1742 error node v0.10.33
+1743 error npm  v3.10.5
+1744 error path /Users/hanny/.npm/Base64/0.2.1
+1745 error code EACCES
+1746 error errno 3
+1747 error Error: EACCES, rmdir '/Users/hanny/.npm/Base64/0.2.1'
+1747 error  { [Error: EACCES, rmdir '/Users/hanny/.npm/Base64/0.2.1']
+1747 error   errno: 3,
+1747 error   code: 'EACCES',
+1747 error   path: '/Users/hanny/.npm/Base64/0.2.1' }
+1748 error Please try running this command again as root/Administrator.
+1749 verbose exit [ 3, true ]
